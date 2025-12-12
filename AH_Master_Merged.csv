@@ -1,0 +1,489 @@
+Aproveitamento Hidráulico;Source;Lat;Lon;Capacity_Web;Código da massa de água;Data CC - Início;Data CC - Termo;Designação da Massa de água;Finalidade CC;Match_Method;N.º Contrato Concessão (CC);OSM_ID;Operator_Web;Outros Usos albufeira;RH;Região hidrográfica;Web_Name;﻿Bacia Hidrográfica
+Alto Lindoso;Both;41.8699577;-8.2021796;630 MW;PT01LIM0028;08/03/2008;31/12/2052;Albufeira do Alto Lindoso;Energia;Exact;CC N.º  01/ENERGIA/INAG/2008;1227636482;Energias de Portugal;Lazer;RH1;Minho e Lima;Central Hidroelétrica do Alto Lindoso;Lima
+Labruja/Rendufe;Both;41.8415802;-8.5828141;0.9 MW;PT01LIM0045;15/02/1991;14/02/2026;Rio Labruja;Energia;Substring;Alvará de Licença nº 43 de 27.6.1990;1227604650;Aquila Capital;-;RH1;Minho e Lima;Aproveitamento Hidroelétrico de Labruja;Lima
+Touvedo;Both;41.8122239;-8.3543074;22 MW;PT01LIM0036;08/03/2008;31/12/2052;Albufeira de Touvedo;Energia;Exact;CC N.º  02/ENERGIA/INAG/2008;1186144682;Energias de Portugal;Abastecimento público - CC;RH1;Minho e Lima;Central Hidroelétrica de Touvedo;Lima
+France (Covas);Both;41.8844547;-8.7612747;7 MW;PT01MIN0021;23/04/1970;22/04/2040;Rio Coura;Energia;Substring;"Decreto de 11 de março de 1970, publicado
+23.4.1970";251234767;Energias de Portugal;-;RH1;Minho e Lima;Central Hidroelétrica de France;Minho
+Pagade;Both;41.8842165;-8.6784151;1.5 MW;PT01MIN0021;21/09/1994;21/09/2029;Rio Coura;Energia;Exact;Alvará de Licença nº 8/89 de 04/12/1989;1227604657;Generg;-;RH1;Minho e Lima;Aproveitamento Hidroelétrico de Pagade;Minho
+Paus;Both;41.9146411;-8.5899311;4 MW;PT01MIN0017;21/09/1994;21/09/2029;Rio Coura;Energia;Exact;Licença de Alvará nº 19/89, de 22/12/1989;1227604652;Generg;-;RH1;Minho e Lima;Aproveitamento Hidroelétrico de Paus;Minho
+Açude/Azenha do Viseu;Both;41.3506663;-8.6442766;0.4 MW;PT02AVE0130;10/09/2001;10/09/2036;Rio Ave;Energia;Substring;"Alvará de Licença nº 26/C-A.H.E, de
+10/09/2001";1227604660;Garfer Internacional;-;RH2;Cávado, Ave e Leça;Central Hídrica do Açude do Viseu;Ave
+Amieiro Galego;APA;;;;PT02AVE0126;em avaliação;em avaliação;"Rio Ave (HMWB - Jusante B.
+Ermal - Guilhofrei)";Energia;;Alvará Licença nº 47/90 de 25/07/1990;;;-;RH2;Cávado, Ave e Leça;;Ave
+Boavista (Rebordões);Both;41.3578919;-8.4487781;3.8 MW;PT02AVE0130;15/12/1994;15/12/2029;Rio Ave;Energia;Substring;Alvará de Licença nº 36/90, de Abril de 1990;1227604664;Hidroelétrica da Boavista;-;RH2;Cávado, Ave e Leça;Aproveitamento Hidroelétrico da Boavista;Ave
+Bugio (Silvares);Both;41.4049625;-8.1522941;0.5 MW;PT02AVE0120;25/03/2003;25/03/2038;Rio Ferro;Energia;Substring;Alvara de Licença nº 27 de 25/03/2003;1227616890;Hidroeléctrica do Búgio;-;RH2;Cávado, Ave e Leça;Aproveitamento Hidroelétrico do Búgio;Ave
+Campelos;Both;41.4577774;-8.345325;0.9 MW;PT02AVE0126;13/12/1991;13/12/2026;"Rio Ave (HMWB - Jusante B.
+Ermal - Guilhofrei)";Energia;Exact;Alvará de Licença nº 48/90 de 25/07/1990;1227604675;Têxteis Manuel Gonçalves;-;RH2;Cávado, Ave e Leça;Aproveitamento Hidroelétrico de Campelos;Ave
+Caneiro;Both;41.3724842;-8.3447498;1.6 MW;PT02AVE0130;09/06/2000;09/06/2035;Rio Ave;Energia;Exact;"Alvará de Licença nº 006/C-AHE, de
+30/04/1996";1227604669;Sociedade Hidroeléctrica Moreirense;-;RH2;Cávado, Ave e Leça;Aproveitamento Hidroelétrico do Caneiro;Ave
+Caniços (Vizela);Both;41.364796;-8.4283776;0.9 MW;PT02AVE0130;14/04/2014;14/04/2054;Rio Ave;Energia;Substring;"CC N.º C00001/2014.RH2.1198.A, de
+144/04/2014";823561099;Energias de Portugal;-;RH2;Cávado, Ave e Leça;Central Hidroelétrica de Caniços;Ave
+Carvalho do Moínho;Both;41.418812;-8.3562497;0.2 MW;PT02AVE0118;28/11/1996;28/11/2031;Ribeira do Selho;Energia;Exact;"Alvará de Licença nº 007/C.AHE,  de
+28/11/1996";334481162;José Magalhães Alves Lda;-;RH2;Cávado, Ave e Leça;Aproveitamento Hidroelétrico do Carvalho do Moinho;Ave
+Corvete;Both;41.3964845;-8.1793833;2.4 MW;PT02AVE0120;em avaliação;em avaliação;Rio Ferro;Energia;Exact;Decreto de 6.3.1972;160717386;Jordão Costa & C.ª, Lda.;-;RH2;Cávado, Ave e Leça;Minihídrica do Corvete;Ave
+Lourido;Both;41.3950633;-8.1971686;2.8 MW;PT02AVE0120;23/07/1998;23/07/2033;Rio Ferro;Energia;Exact;Alvará de Licença n.º 95 de 30/10/1991;150772756;Empresa Hidroeléctrica de Felgueiras;-;RH2;Cávado, Ave e Leça;Minihídrica do Lourido;Ave
+Negrelos II (Vau;Both;41.3569419;-8.4149473;0.7 MW;PT02AVE0130;14/04/2014;14/04/2054;Rio Ave;Energia;Substring;"CC N.º C00002/2014-RH2.1198.A, de 14-04-
+2014";825205061;Hidroeléctrica de S. Nicolau;-;RH2;Cávado, Ave e Leça;Aproveitamento Hidroelétrico de Negrelos;Ave
+Rego do Naval;Both;41.3427558;-8.6289784;0.75 MW;PT02AVE0130;28/12/2010;22/01/2042;Rio Ave;Energia;Exact;"CC N.º C00012/2010.RH2.1198.A, de
+28/12/2010";1227604662;Garfer Internacional;-;RH2;Cávado, Ave e Leça;Central Hídrica de Rego Naval;Ave
+Ronfe;Both;41.4384303;-8.3741585;1 MW;PT02AVE0126;03/08/1993;03/08/2028;"Rio Ave (HMWB - Jusante B.
+Ermal - Guilhofrei)";Energia;Exact;"Alvará Licença Nº 112 de 1993 com
+aditamento de 3.10.2005";287204058;Têxteis Manuel Gonçalves;-;RH2;Cávado, Ave e Leça;Aproveitamento Hidroelétrico de Ronfe;Ave
+"Abelheira I (deriva para AH
+Paradela)";Both;37.236658;-8.3795133;0.4 MW;PT02CAV0076;08/03/2008;31/12/2032;"Rio Cávado (HMWB - Jusante
+B. Paradela)";Energia;Substring;CC N.º  05/ENERGIA/INAG/2008;544239046;Associação De Regantes e Beneficiários de Silves, Lagoa e Portimão;-;RH2;Cávado, Ave e Leça;Central Hidroelétrica de Arade;Cávado
+"Abelheira II (deriva para AH
+Paradela)";Both;41.7021528;-8.0069277;55.970 MW;PT02CAV0076;08/03/2008;31/12/2032;"Rio Cávado (HMWB - Jusante
+B. Paradela)";Energia;Substring;CC N.º  05/ENERGIA/INAG/2008;1427805692;Energias de Portugal;-;RH2;Cávado, Ave e Leça;Central Hidroelétrica da Paradela;Cávado
+"Açude da Cabreira deriva para
+Venda";APA;;;;PT02CAV0082;08/03/2008;31/12/2070;Rio de Saltadouro;Energia;;CC N.º  04/ENERGIA/INAG/2008;;;-;RH2;Cávado, Ave e Leça;;Cávado
+Açude Ribeira de Rebordondo (deriva para AH Ruivães);Both;41.6847198;-8.0660443;3.9 MW;PT02CAV0082;01/01/2017;01/01/2052;Rio de Saltadouro;Energia;Substring;CC N.º 00013/2009-RH2.1196.E de 16/09/2009;1242000627;HIDROERG;-;RH2;Cávado, Ave e Leça;Minihídrica de Ruivães;Cávado
+"Açude Ribeiro de Chedos
+(deriva para AH Ruivães)";APA;;;;PT02CAV0082;01/01/2017;01/01/2052;Rio de Saltadouro;Energia;;"CC N.º 00013/2009-RH2.1196.E de
+16/09/2009";;;-;RH2;Cávado, Ave e Leça;;Cávado
+"Alto Cávado caudais
+derivados para Alto Rabagão";Both;41.7384679;-7.8592252;66 MW;PT02CAV0062;08/03/2008;31/12/2042;Rio Cávado;Energia;Substring;CC N.º  03/ENERGIA/INAG/2008;18745193;Energias de Portugal;-;RH2;Cávado, Ave e Leça;Central Hidroelétrica do Alto Rabagão;Cávado
+Alto Rabagão;APA;;;;PT02CAV0072;08/03/2008;31/12/2042;Albufeira do Alto Rabagão;Energia;;CC N.º  03/ENERGIA/INAG/2008;;;Abastecimento público - CC;RH2;Cávado, Ave e Leça;;Cávado
+Brufe (deriva para AH Vilarinho das Furnas);Both;41.7002889;-8.176221;125 MW;PT02CAV0070;08/03/2008;31/12/2052;Rio Homem (HMWB - Jusante B. Vilarinho das Furnas);Energia;Substring;CC N.º  08/ENERGIA/INAG/2008;805803314;Energias de Portugal;-;RH2;Cávado, Ave e Leça;Central Hidroelétrica de Vilarinho das Furnas;Cávado
+"Cabril (deriva para AH
+Paradela)";Both;39.917574;-8.1323416;106 MW;PT02CAV0073;08/03/2008;31/12/2032;Ribeira de Cabril;Energia;Substring;CC N.º  05/ENERGIA/INAG/2008;1426934786;Energias de Portugal;-;RH2;Cávado, Ave e Leça;Central Hidroelétrica do Cabril;Cávado
+Caniçada;Both;41.6538623;-8.2331806;62 MW;PT02CAV0086;08/03/2008;31/12/2032;Albufeira da Caniçada;Energia;Exact;CC N.º  07/ENERGIA/INAG/2008;1227767799;Energias de Portugal;Lazer;RH2;Cávado, Ave e Leça;Central Hidroelétrica da Caniçada;Cávado
+"Castanheiro (deriva para AH
+Paradela)";APA;;;;PT02CAV0076;08/03/2008;31/12/2032;"Rio Cávado (HMWB - Jusante
+B. Paradela)";Energia;;CC N.º  05/ENERGIA/INAG/2008;;;-;RH2;Cávado, Ave e Leça;;Cávado
+"Freitas (deriva para AH
+Vilarinho das Furnas)";APA;;;;PT02CAV0079;08/03/2008;31/12/2052;Rio Caldo;Energia;;CC N.º  08/ENERGIA/INAG/2008;;;-;RH2;Cávado, Ave e Leça;;Cávado
+Gemesura (deriva para AH Vilarinho das Furnas);APA;;;;PT02CAV0070;08/03/2008;31/12/2052;Rio Homem (HMWB - Jusante B. Vilarinho das Furnas);Energia;;CC N.º  08/ENERGIA/INAG/2008;;;-;RH2;Cávado, Ave e Leça;;Cávado
+Mesa do Galo_Borralha;APA;;;;PT02CAV0084;18/11/1997;18/11/2032;Ribeira de Amiar;Energia;;"Alvará de Licença nº 009/C.-A.H.E, de
+18/11/1997";;;-;RH2;Cávado, Ave e Leça;;Cávado
+Paradela;APA;;;;PT02CAV0068;08/03/2008;31/12/2032;Albufeira de Paradela;Energia;;CC N.º  05/ENERGIA/INAG/2008;;;-;RH2;Cávado, Ave e Leça;;Cávado
+"Penedo (deriva para AH
+Paradela)";APA;;;;PT02CAV0073;08/03/2008;31/12/2032;Ribeira de Cabril;Energia;;CC N.º  05/ENERGIA/INAG/2008;;;-;RH2;Cávado, Ave e Leça;;Cávado
+Penide;Both;41.5489364;-8.5373;4.9 MW;PT02CAV0095;24/04/1967;23/04/2027;Rio Cávado;Energia;Exact;"Decreto de 24 de abril de 1967, publicado a
+24.4.1967";8057850;Aquila Capital;Abastecimento público - CC;RH2;Cávado, Ave e Leça;Central Hidroelétrica de Penide;Cávado
+Ponte do Bico/Palmeira;Both;41.605861;-8.4273923;2.2 MW;PT02CAV0090;em avaliação;em avaliação;"Rio Cávado (HMWB - Jusante
+B. Caniçada)";Energia;Substring;Alvará de Licença nº 60/90 de 17/10/1990;1227604648;GESFINU;-;RH2;Cávado, Ave e Leça;Central Hidroelétrica da Ponte do Bico;Cávado
+Ruães;Both;41.5845195;-8.4801888;1.8 MW;PT02CAV0095;19/09/2003;29/05/2036;Rio Cávado;Energia;Exact;"Alvará de Licença Nº 028/C-A.H.E. de 19-09-
+2003";361993687;RP GLOBAL PORTUGAL;-;RH2;Cávado, Ave e Leça;Aproveitamento Hidroelétrico de Ruães;Cávado
+Ruivães (Açude);APA;;;;PT02CAV0082;01/01/2017;01/01/2052;Rio de Saltadouro;Energia;;"CC N.º 00013/2009-RH2.1196.E de
+16/09/2009";;;-;RH2;Cávado, Ave e Leça;;Cávado
+Salamonde;Both;41.6897571;-8.0909475;222.7 MW;PT02CAV0080;08/03/2008;31/12/2070;Albufeira de Salamonde;Energia;Substring;CC N.º  06/ENERGIA/INAG/2008;1426280012;Energias de Portugal;-;RH2;Cávado, Ave e Leça;Central Hidroelétrica de Salamonde II;Cávado
+Sela (deriva para AH Paradela);APA;;;;PT02CAV0076;08/03/2008;31/12/2032;"Rio Cávado (HMWB - Jusante
+B. Paradela)";Energia;;CC N.º  05/ENERGIA/INAG/2008;;;-;RH2;Cávado, Ave e Leça;;Cávado
+"Toco (deriva para AH
+Paradela)";APA;;;;PT02CAV0077;08/03/2008;31/12/2032;Rio de Fafião;Energia;;CC N.º  05/ENERGIA/INAG/2008;;;-;RH2;Cávado, Ave e Leça;;Cávado
+Venda Nova;Both;41.7018755;-8.0074134;88 MW;PT02CAV0083;08/03/2008;31/12/2070;Albufeira da Venda Nova;Energia;Exact;CC N.º  04/ENERGIA/INAG/2008;1427805693;Energias de Portugal;Abastecimento público - CC;RH2;Cávado, Ave e Leça;Central Hidroelétrica de Venda Nova;Cávado
+Vilarinho das Furnas;APA;;;;PT02CAV0069;08/03/2008;31/12/2052;"Albufeira de Vilarinho das
+Furnas";Energia;;CC N.º  08/ENERGIA/INAG/2008;;;-;RH2;Cávado, Ave e Leça;;Cávado
+"Açude de Covas (AH de Covas
+do Barroso)";APA;;;;PT03DOU0204;07/02/1995;07/02/2030;Rio Covas;Energia;;Alvará de Licença nº 111, de 01/09/1993;;;-;RH3;Douro;;Douro
+"Açude do Couto (AH de Covas
+do Barroso)";APA;;;;PT03DOU0204;07/02/1995;07/02/2030;Rio Covas;Energia;;Alvará de Licença nº 111, de 01/09/1993;;;-;RH3;Douro;;Douro
+"Açude na Rª de Chã do Meio
+(deriva para AH Vales)";Both;41.4419017;-7.4985165;3.2 MW;PT03DOU0263;02/07/1905;09/03/2044;Rio Tinhela;Energia;Substring;C00005/2010-RH3.12.A;148325362;HIDROERG;-;RH3;Douro;Aproveitamento Hidroelétrico de Vales;Douro
+Açude Vales;APA;;;;PT03DOU0263;02/07/1905;09/03/2044;Rio Tinhela;Energia;;C00005/2010-RH3.12.A,;;;-;RH3;Douro;;Douro
+"Açude Veiga de Chaves/Aç.
+Vila Verde da Raia";APA;;;;PT03DOU0226NA1;19/06/2018;12/02/2036;Rio Tâmega;Rega;;CC N.º 002/2018-RH3.1212.A, de 19.6.2018;;;-;RH3;Douro;;Douro
+"Açude-Ponte de Mirandela
+(AH Ponte Europa)";Both;41.4809338;-7.1886355;1 MW;PT03DOU0331B;25/11/2010;08/10/2044;Rio Tua;Energia;Substring;C00010/2010-RH3-1214-A, de 25/11/2010;1227829991;Egeve;-;RH3;Douro;Aproveitamento Hidroelétrico da Ponte Europa;Douro
+Agilde;Both;41.3545294;-8.1028724;2 MW;PT03DOU0297;01/10/2012;01/10/2047;Ribeira de Santa Natália;Energia;Exact;C00004/2010,RH3.12.12.A, de 20/05/2010;1227616891;HIDROERG;-;RH3;Douro;Aproveitamento Hidroelétrico de Agilde;Douro
+Alfaiates;APA;;;;PT03DOU0494;24/03/2021;31/12/2046;Ribeira da Aldeia da Ponte;Rega;;CC N.º 00002/2021-RH3.12A, de 24.3.2021;;;Lazer (balnear);RH3;Douro;;Douro
+Alfândega da Fé (Estevainha);APA;;;;PT03DOU0318A;16/11/2012;16/11/2032;Ribeira do Calvário;Rega;;CC N.º 00021/2012-RH3.12.A, de 16.11.2012;;;"Abastecimento público - CC;
+Lazer";RH3;Douro;;Douro
+Alto Tâmega;Both;41.5737413;-7.7313444;160 MW;PT03DOU0226NA1;22/07/2022;31/12/2072;Rio Tâmega;Energia;Exact;CC N.º  32/ENERGIA/APA/2014;1429372113;Iberdrola;-;RH3;Douro;Central Hidroelétrica do Alto Tâmega;Douro
+Alvadia;Both;41.4599422;-7.8078511;10 MW;PT03DOU0255D;em avaliação;em avaliação;Rio Poio;Energia;Exact;Alvará de Licença nº 10/89, de 04/12/1989;842440181;Empreendimentos Hidroeléctricos do Alto Tâmega e Barroso;-;RH3;Douro;Aproveitamento Hidroelétrico de Alvadia;Douro
+Arcossó;APA;;;;PT03DOU0166;19/06/2018;12/02/2036;Ribeira de Arcosso;Rega;;CC N.º 002/2018-RH3.1212.A, de 19.6.2018;;;Abastecimento público - CC;RH3;Douro;;Douro
+Aregos;Both;41.0938758;-8.0278609;3.1 MW;PT03DOU0394;29/07/2011;01/07/2028;Rio Cabrum;Energia;Exact;C00003/2011-RH3.12.A, de 29.7.2011;455366594;Aquila Capital;-;RH3;Douro;Aproveitamento Hidroelétrico de Aregos;Douro
+"Armamar / (Temilobos,
+Lumiares)";Both;41.0595305;-7.6724619;0.74 MW;PT03DOU0396;23/04/2013;23/04/2033;Ribeiro de Temilobos;Rega;Substring;CC N.º 00007/2013-RH3.12.A, de 23.4.2013;1227819026;Hidroeléctrica de Armamar;Abastecimento público - CC;RH3;Douro;Aproveitamento Hidroelétrico de Armamar;Douro
+Assobio;Both;41.1249844;-7.9475082;1.050 MW;PT03DOU0382;17/05/1999;17/05/2034;Ribeiro do Zêzere;Energia;Exact;"Alvará de Utilização de Água nº 18 de
+17/05/1999";1227567388;Mini-Hídrica do Assobio, Lda.;-;RH3;Douro;Central Hidroelétrica de Assobio;Douro
+Azibo;APA;;;;PT03DOU0223;14/10/2021;11/05/2041;Albufeira do Azibo;Rega;;CC N.º 00005/2021-RH3.12.A, de 14.10.2021;;;-;RH3;Douro;;Douro
+"Baixo Sabor (escalão de
+montante)";APA;;;;PT03DOU0335D;01/07/2015;31/07/2090;Albufeira do Baixo Sabor;Energia;;CC N.º  27/ENERGIA/INAG/2008;;;-;RH3;Douro;;Douro
+"Baixo Sabor (escalão
+jusante)/Feiticeiro";APA;;;;PT03DOU0335C;01/07/2015;31/07/2090;"Albufeira do Baixo Sabor
+(Jusante)";Energia;;CC N.º  27/ENERGIA/INAG/2008;;;-;RH3;Douro;;Douro
+"Barreiros (Quinta da
+Fervença)";Both;40.9116197;-7.5110651;0.3 MW;PT03DOU0457;22/10/1998;22/10/2033;Rio Távora;Energia;Substring;"Alvará de Licença nº 004/C - AHE, de
+21/12/1996";1227819030;Hidroeléctrica AmbasAguas;-;RH3;Douro;Aproveitamento Hidroelétrico de Barreiros;Douro
+Bemposta;Both;41.3000859;-6.4739321;203 MW;PT03DOU0295;08/03/2008;31/12/2056;Albufeira da Bemposta;Energia;Substring;CC N.º  11/ENERGIA/INAG/2008;542176012;Movhera;Abastecimento público - CC;RH3;Douro;Central Hidroelétrica da Bemposta II;Douro
+Bouçoais - Sonim;APA;;;;PT03DOU0189N;30/06/1999;30/06/2034;Rio Rabaçal;Energia;;"Alvará de Licença  Nº 019/C - AHE de
+30.6.1999";;;-;RH3;Douro;;Douro
+Bragadas;Both;41.5450519;-7.7867062;10 MW;PT03DOU0300A;26/07/1996;26/07/2031;Rio Beça;Energia;Exact;Alvará de Licença nº 27 de 12.03.1990;1233656530;Empreendimentos Hidroeléctricos do Alto Tâmega e Barroso;-;RH3;Douro;Central Hidroelétrica de Bragadas;Douro
+Bragado;Both;41.5816003;-7.6800116;3.1 MW;PT03DOU0211;29/05/1998;29/05/2033;Rio Avelames;Energia;Exact;"Alvará de Licença nº 002/C-A.H.E, de
+08/01/1996";1316725150;HIDROERG;-;RH3;Douro;Aproveitamento Hidroelétrico de Bragado;Douro
+Burga;APA;;;;PT03DOU0290;23/04/2013;23/04/2033;Ribeira da Vilariça;Rega;;"CC N.º 00008/2013-RH3.1216.A, de
+23.4.2013";;;-;RH3;Douro;;Douro
+Candemil;Both;41.2464506;-7.974823;2 MW;PT03DOU0319;01/12/2011;01/12/2046;Rio Ovelha;Energia;Exact;C00001/2010-RH3.12.A, de 15/04/2010;1227567397;Hidroamarante;-;RH3;Douro;Aproveitamento Hidroelétrico de Candemil;Douro
+Canedo;Both;41.620693;-7.7394976;10 MW;PT03DOU0300A;em avaliação;em avaliação;Rio Beça;Energia;Exact;"1/ENERGIA/CCDRN/NORTE/2008, de
+18/07/2008";1226762940;RP GLOBAL PORTUGAL;-;RH3;Douro;Central Hidroelétrica de Canedo;Douro
+Carrapatelo;Both;41.0836236;-8.1302356;198 MW;PT03DOU0401;08/03/2008;31/12/2052;Albufeira do Carrapatelo;Energia;Exact;CC N.º  15/ENERGIA/INAG/2008;19569245;Energias de Portugal;"Abastecimento público - CC;
+Navegação; Lazer";RH3;Douro;Central Hidroelétrica do Carrapatelo;Douro
+Casal;Both;41.5442885;-8.0169093;1.1 MW;PT03DOU0238;em avaliação;em avaliação;Rio de Ouro;Energia;Exact;Alvará de Licença nº 24, de 12/03/1990;1227616899;Sociedade Hidroeléctrica do Peio;-;RH3;Douro;Aproveitamento Hidroelétrico do Casal;Douro
+Catapereiro;Both;41.1404223;-7.2405417;9.8 MW;PT03DOU0372A;28/02/1997;28/02/2032;Ribeira da Teja;Energia;Exact;Alvará de Licença nº 75 de 24/01/1991;1051238938;DiretrizVerde;-;RH3;Douro;Central Hidroelétrica do Catapereiro;Douro
+Cefra (Freita);Both;41.5052781;-7.9694442;1.1 MW;PT03DOU0242;14/12/2000;13/11/2030;Rio de Ouro;Energia;Substring;"DECRETO nº 27145 DE 24.10.1936,
+PUBLICADO 24.10.1936";1227616901;Aquila Capital;-;RH3;Douro;Aproveitamento Hidroelétrico de Cefra;Douro
+Central da Ribeira;APA;;;;PT03DOU0204;12/03/2012;12/03/2047;Rio Covas;Energia;;C00008/2012-RH3.12.12.A, de 12/03/2012;;;-;RH3;Douro;;Douro
+Cerejo (Bouça Cova);Both;39.8539459;-8.219751;44 MW;PT03DOU0479A;28/11/2020;31/12/2045;Albufeira de Cerejo;Rega;Substring;CC N.º 00007/2020-RH3.12.A;455366613;Energias de Portugal;Abastecimento público - CC;RH3;Douro;Central Hidroelétrica de Bouçã;Douro
+Chelo I - Mourães;Both;41.057716;-8.4870043;0.1 MW;PT03DOU0408;08/06/1994;08/06/2029;Rio Uima;Energia;Substring;Alvará de Licença nº 89, de dezembro de 1991;1227567411;IDEPA - Indústria de Passamanarias;-;RH3;Douro;Aproveitamento Hidroelétrico de Chelo I;Douro
+Chelo II;APA;;;;PT03DOU0390;em avaliação;em avaliação;Rio Varosa;Energia;;Alvará Licença nº001/C-AHE, de 30/05/1995;;;-;RH3;Douro;;Douro
+Crestuma-Lever;Both;41.0716865;-8.4859026;115 MW;PT03DOU0407;08/03/2008;31/12/2052;Albufeira de Crestuma-Lever;Energia;Exact;CC N.º  16/ENERGIA/INAG/2008;1227765299;Energias de Portugal;"Abastecimento público - CC;
+Navegação; Lazer";RH3;Douro;Central Hidroelétrica de Crestuma-Lever;Douro
+Curalha;APA;;;;PT03DOU0226NA1;23/04/2013;23/04/2033;Rio Tâmega;Rega;;"CC N.º 00005/2013-RH3.1212.A,  de
+23.4.2013";;;-;RH3;Douro;;Douro
+Daivões;Both;41.5242625;-7.8649437;118 MW;PT03DOU0233A;22/07/2022;31/12/2072;Albufeira de Daivões;Energia;Exact;CC N.º  32/ENERGIA/APA/2014;767834338;Iberdrola;-;RH3;Douro;Central Hidroelétrica de Daivões;Douro
+Ermida (Barragem);Both;40.9203454;-7.9629907;7.6 MW;PT03DOU0452;30/11/1992;30/11/2027;Ribeira da Carvalhosa;Energia;Substring;Alvará de licença nº 14/89 de 4 de dezembro;1227795233;RP GLOBAL PORTUGAL;-;RH3;Douro;Aproveitamento Hidroelétrico da Ermida;Douro
+Foz Tua;Both;41.2159123;-7.4272457;274 MW;PT03DOU0331C;04/04/2018;04/04/2093;Albufeira de Foz Tua;Energia;Exact;CC N.º  28/ENERGIA/INAG/2011;343672162;Movhera;-;RH3;Douro;Central Hidroelétrica de Foz Tua;Douro
+Fráguas;Both;40.8378389;-7.7842565;3.2 MW;PT03DOU0453;03/11/1992;03/11/2027;Rio Paiva;Energia;Exact;Alvará de Licença nº 13/89 de 04/12/1989;908335955;Generg;-;RH3;Douro;Aproveitamento Hidroelétrico de Fráguas;Douro
+Freigil;Both;41.0751187;-8.0232997;4.6 MW;PT03DOU0394;01/01/2011;01/07/2028;Rio Cabrum;Energia;Exact;Concessão do Contrato 5787-III de 10 de maio, publicado no DG 2R Série de 28.09.1920;455366600;Aquila Capital;-;RH3;Douro;Aproveitamento Hidroelétrico de Freigil;Douro
+Gostei;APA;;;;PT03DOU0167;23/04/2013;23/04/2033;Rio Fervença;Rega;;CC N.º 00003/2013-RH3.1216A;;;-;RH3;Douro;;Douro
+Gouvães;Both;41.5398495;-7.7688642;880 MW;PT03DOU0255B;22/07/2022;31/12/2072;Albufeira de Gouvães;Energia;Exact;CC N.º  32/ENERGIA/APA/2014;768250326;Iberdrola;Abastecimento público -CC;RH3;Douro;Central Hidroelétrica de Gouvães;Douro
+Granja do Tedo;Both;41.0696079;-7.6139171;2.2 MW;PT03DOU0410;14/01/1997;14/01/2032;Ribeira do Tedo;Energia;Exact;"Alvará de Licença nº 008/C-A.H.E, de
+14/01/1997";1227819027;Hidroelétrica da Ribeira de Leomil;-;RH3;Douro;Aproveitamento Hidroelétrico da Granja do Tedo;Douro
+Hortas / Mourães;Both;41.0647886;-8.4898603;0.5 MW;PT03DOU0408;09/12/2014;09/12/2054;Rio Uima;Energia;Substring;"CC N.º  C000011/2014-RH3.12.A de
+09/12/2014";1227567409;GESTHIDRO;-;RH3;Douro;Aproveitamento Hidroelétrico de Hortas;Douro
+Lomba;Both;41.2468382;-8.0573311;0.3 MW;PT03DOU0341;27/09/1999;27/09/2034;Rio Ovelha;Energia;Exact;"Alvará de Licença nº 005/C     AHE de 23 de
+abril de 1996";1227567401;CEOV - Companhia Extracção de Óleos Vegetais;-;RH3;Douro;Aproveitamento Hidroelétrico da Lomba;Douro
+Mairos;APA;;;;PT03DOU0166;23/04/2013;23/04/2033;Ribeira de Arcosso;Rega;;CC N.º 00004/2013-RH3.1212A, de 23.4.2013;;;-;RH3;Douro;;Douro
+Miranda do Douro;APA;;;;PT03DOU0245;08/03/2008;31/12/2042;Albufeira de Miranda;Energia;;CC N.º  09/ENERGIA/INAG/2008;;;Abastecimento público - CC;RH3;Douro;;Douro
+Misarela;APA;;;;PT03DOU0369;08/09/1999;08/09/2034;Ribeiro de Temilobos;Energia;;Alvará de Licença nº 22, de 08/09/1999;;;-;RH3;Douro;;Douro
+Moinhos de Moiratão;Both;40.9027418;-7.3360174;0.4 MW;PT03DOU0437B;10/10/2011;10/10/2046;Ribeira da Teja;Energia;Exact;C00002/2010-RH3.12.A, de 16/04/2010;1227819034;Moinhos de Moiratão;-;RH3;Douro;Aproveitamento Hidroelétrico de Moinhos de Moiratão;Douro
+Nunes;Both;41.818785;-6.9834919;8.7 MW;PT03DOU0180;16/02/1995;15/02/2030;Rio Tuela;Energia;Exact;Alvará de Licença Nº16/89 de 3.1.1990;1051431068;Aquila Capital;-;RH3;Douro;Central Hidroelétrica de Nunes;Douro
+Ovadas;Both;41.0558883;-7.99449;5.6 MW;PT03DOU0394;25/06/1991;24/06/2026;Rio Cabrum;Energia;Exact;Alvará de Licença Nº 77 de 21.1.1991;1227567386;Aquila Capital;-;RH3;Douro;Aproveitamento Hidroelétrico de Ovadas;Douro
+Pego Negro;Both;41.3285472;-8.0866075;0.7 MW;PT03DOU0297;12/12/2011;12/12/2051;Ribeira de Santa Natália;Energia;Exact;C00004/2011-RH3.1212.A, de 12.12.2011;1227616895;Hidroeléctrica do Pego;-;RH3;Douro;Aproveitamento Hidroelétrico do Pego Negro;Douro
+Penhas Altas;Both;41.2302305;-8.4144056;1.6 MW;PT03DOU0327;em avaliação;em avaliação;Rio Ferreira;Energia;Exact;Alvará de Licença Nº 57;1227567404;Sociedade Hidroeléctrica do Rio Ferreira;-;RH3;Douro;Aproveitamento Hidroelétrico das Penhas Altas;Douro
+Pereira;Both;40.919942;-7.9647301;4.5 MW;PT03DOU0452;03/06/1998;03/06/2033;Ribeira da Carvalhosa;Energia;Exact;"Alvará de Licença nº 294/98 - MH(15) de
+03/06/1998";1227795235;RP GLOBAL PORTUGAL;-;RH3;Douro;Aproveitamento Hidroelétrico de Pereira;Douro
+Picote;Both;41.3792533;-6.3518157;192 MW;PT03DOU0275;08/03/2008;31/12/2063;Albufeira de Picote;Energia;Exact;CC N.º  10/ENERGIA/INAG/2008;19455216;Movhera;Abastecimento público - CC;RH3;Douro;Central Hidroelétrica de Picote;Douro
+Pinhão;APA;;;;PT03DOU0285B;29/05/2009;26/10/2031;Albufeira do Pinhão;Energia;;"CC N.º 4/ABAST/ARH do Norte.I.P./2009, de
+29.5.2009";;;-;RH3;Douro;;Douro
+Pinhel (Ribeira da Pega);Both;40.8242422;-7.0829282;6.8 MW;PT03DOU0474;09/06/1999;09/06/2034;"Ribeira da Pega (HMWB -
+Jusante B. Vascoveiro)";Energia;Substring;"Alvará de Licença nº 590/99-MH, de
+09/06/1999";1051175679;HIDROERG;-;RH3;Douro;Aproveitamento Hidroelétrico de Pinhel;Douro
+Pinhel (Ribeira das Cabras);APA;;;;PT03DOU0471;09/06/1999;09/06/2034;Rio Côa;Energia;;"Alvará de Licença nº 590/99-MH, de
+09/06/2000";;;-;RH3;Douro;;Douro
+Pisões;Both;40.5467585;-8.0704743;0.1 MW;PT03DOU0320;10/05/2021;11/05/2056;Rio Fornelo;Energia;Exact;"CC N.º nº C00007/2017-RH3.12.A, de
+27/07/2017";1227795219;Energias de Portugal;-;RH3;Douro;Aproveitamento Hidroelétrico de Pisões;Douro
+Pocinho;Both;41.1342508;-7.1141714;186 MW;PT03DOU0371;08/03/2008;31/12/2052;Albufeira do Pocinho;Energia;Exact;CC N.º  12/ENERGIA/INAG;1227761012;Energias de Portugal;"Abastecimento público - CC;
+Navegação; Lazer";RH3;Douro;Central Hidroelétrica do Pocinho;Douro
+Ponte Nova;Both;40.8892646;-7.5131209;0.3 MW;PT03DOU0457;26/07/1996;26/07/2031;Rio Távora;Energia;Substring;"Alvará de Licença nº003/C.AHE, de
+19/01/1996";1227819032;HIDROBEIRA;-;RH3;Douro;Aproveitamento Hidroelétrico daPonte Nova;Douro
+Prada;APA;;;;PT03DOU0156;31/05/2019;31/05/2044;Regato de Vale de Cabrões;Rega;;CC N.º 005/2019-RH3.12.A de 31.5.2019;;;-;RH3;Douro;;Douro
+Rebordelo;Both;41.7405834;-7.1748231;10 MW;PT03DOU0189N;17/02/1999;17/02/2034;Rio Rabaçal;Energia;Exact;"Alvará de Licença  Nº 011/C - AHE de
+17.2.1999";1444559521;Aquila Capital;-;RH3;Douro;Central Hidroelétrica de Rebordelo;Douro
+Rego do Milho;APA;;;;PT03DOU0152;31/05/2019;31/05/2044;Ribeira de Cambedo Regueirón;Rega;;CC N.º 006/2019-RH3.12.A de 31.5.2019;;;-;RH3;Douro;;Douro
+Régua;Both;41.147442;-7.7381848;177 MW;PT03DOU0365;08/03/2008;31/12/2052;Albufeira da Régua;Energia;Exact;CC N.º  14/ENERGIA/INAG/2008;1424661457;Energias de Portugal;"Abastecimento público - CC;
+Navegação; Lazer";RH3;Douro;Central Hidroelétrica da Régua;Douro
+Ribadouro (Açude);Both;41.0990873;-8.0825152;3.1 MW;PT03DOU0392;13/12/1991;13/12/2026;Rio Ovil;Energia;Substring;Alvará de Licença nº 68, de 30/11/1990;879308464;HIDROERG;-;RH3;Douro;Aproveitamento Hidroelétrico de Ribadouro;Douro
+Ribeiro Grande e Arco;APA;;;;PT03DOU0325C;23/04/2013;23/04/2033;"Albufeira de Ribeiro Grande e
+Arco";Rega;;"CC N.º 00008/2013-RH3.1216.A, de
+23.4.2013";;;-;RH3;Douro;;Douro
+Salgueiro;APA;;;;PT03DOU0290;23/04/2013;23/04/2033;Ribeira da Vilariça;Rega;;"CC N.º 00008/2013-RH3.1216.A, de
+23.4.2013";;;-;RH3;Douro;;Douro
+Santa Justa;APA;;;;PT03DOU0290;23/04/2013;23/04/2033;Ribeira da Vilariça;Rega;;"CC N.º 00008/2013-RH3.1216.A, de
+23.4.2013";;;-;RH3;Douro;;Douro
+Senhora de Monforte;Both;40.8172977;-7.0292205;9 MW;PT03DOU0471;06/06/1992;06/06/2027;Rio Côa;Energia;Exact;Alvará de Licença nº 39/90 , de 04/05/1990;1051175672;Energias Hidroeléctricas;-;RH3;Douro;Central Hidroelétrica da Senhora de Monforte;Douro
+Senhora do Salto;Both;41.1230859;-8.4368754;3.8 MW;PT03DOU0399;09/02/1993;09/02/2028;Rio Sousa;Energia;Exact;Alvará de Licença nº56 de 12/10/1990;969274207;Sociedade Hidroeléctrica do Norte;-;RH3;Douro;Aproveitamento Hidroelétrico da Senhora do Salto;Douro
+Sordo;Both;41.2705881;-7.7612341;8.5 MW;PT03DOU0310;06/12/1994;05/12/2029;Rio Sordo;Energia;Exact;Alvará de Licença nº  110 de 3.7.1993;532020839;Aquila Capital;Abastecimento público - CC;RH3;Douro;Central Hidroelétrica do Sordo;Douro
+Terragido;Both;41.2721466;-7.7487632;8.5 MW;PT03DOU0359;08/02/1991;07/02/2026;Rio Corgo;Energia;Exact;Alvará de Licença Nº 34/90 de 29.3.1990;1227567395;Aquila Capital;-;RH3;Douro;Aproveitamento Hidroelétrico do Terragido;Douro
+Torga;Both;41.7062643;-7.1175887;8.5 MW;PT03DOU0180;02/07/1991;01/07/2026;Rio Tuela;Energia;Exact;Alvará de Licença Nº 69 de 17/12/1990;162926004;Aquila Capital;-;RH3;Douro;Aproveitamento Hidroelétrico de Torga;Douro
+Torrão;Both;41.0964184;-8.2632016;137 MW;PT03DOU0393;08/03/2008;31/12/2052;Albufeira do Torrão;Energia;Exact;CC N.º  17/ENERGIA/INAG/2008;1422753949;Energias de Portugal;"Abastecimento público - CC;
+Navegação; Lazer";RH3;Douro;Central Hidroelétrica do Torrão;Douro
+Trutas;Both;41.8335232;-6.9426221;2.2 MW;PT03DOU0180;22/12/2010;19/11/2044;Rio Tuela;Energia;Exact;C00013/2010.RH2.1214.A, de 22/12/2010;1051431051;Hidroeléctrica das Trutas, Lda.;-;RH3;Douro;Aproveitamento Hidroelétrico das Trutas;Douro
+Ucanha - Gouviães;Both;41.0690872;-7.7597984;5.7 MW;PT03DOU0390;01/03/1999;01/03/2034;Rio Varosa;Energia;Substring;Alvará de Licença nº 100 de 30/09/1992;1221586687;Hidroeléctrica de Casal;-;RH3;Douro;Aproveitamento Hidroelétrico da Ucanha;Douro
+Vale Madeira;Both;40.7983904;-7.0147819;1.35 MW;PT03DOU0471;17/06/2004;17/06/2039;Rio Côa;Energia;Exact;Alvará de Licença nº 107, de 30/07/1993;382253263;Energias Hidroeléctricas;-;RH3;Douro;Aproveitamento Hidroelétrico Vale de Madeira;Douro
+Vale Madeiro;APA;;;;PT03DOU0248;23/04/2013;23/04/2033;Ribeira de Mourel;Rega;;CC N.º 00006/2013-RH3.1214.A de 23.4.2013;;;-;RH3;Douro;;Douro
+Vale Soeiro;Both;40.8988378;-7.9439604;4.4 MW;PT03DOU0453;08/07/1994;08/07/2029;Rio Paiva;Energia;Exact;Alvará de Licença Nº 9/89  de 04/12/1989;380519066;Generg;-;RH3;Douro;Aproveitamento Hidroelétrico de Vale Soeiro;Douro
+Valeira;Both;41.1604322;-7.3738011;236 MW;PT03DOU0353A;08/03/2008;31/12/2052;Albufeira da Valeira;Energia;Exact;CC N.º  13/ENERGIA/INAG/2008;1227760443;Energias de Portugal;Navegação;RH3;Douro;Central Hidroelétrica da Valeira;Douro
+Valtorno;APA;;;;PT03DOU0325A;20/07/2012;26/10/2031;Ribeiro Grande;Rega;;CC N.º 017/2012-RH3.1216.A, de 20.7.2012;;;-;RH3;Douro;;Douro
+Varosa;Both;41.1402877;-7.7754872;24.5 MW;PT03DOU0386;16/04/1973;16/04/2033;Albufeira do Varosa;Energia;Exact;Diário do Governo nº 90, de 16/04/1973;212029876;Energias de Portugal;-;RH3;Douro;Central Hidroelétrica de Varosa;Douro
+Vermiosa;APA;;;;PT03DOU0465;24/03/2021;31/12/2046;Ribeiro da Deveza;Rega;;CC N.º 00003/2021-RH3.12.A, de 24.3.2021;;;-;RH3;Douro;;Douro
+Vila Viçosa;Both;40.9955312;-8.2103496;3.8 MW;PT03DOU0434;13/09/1993;13/09/2028;Rio Ardena;Energia;Exact;"Alvará de licença nº 1/89 de 6 de novembro de
+1989";167449736;Hidrocentrais Reunidas;-;RH3;Douro;Central Hidroelétrica de Vila Viçosa;Douro
+Vilar - Tabuaço;APA;;;;PT03DOU0436;08/03/2008;31/12/2042;Albufeira Vilar - Tabuaço;Energia;;CC N.º  18/ENERGIA/INAG/2008;;;"Abastecimento público - CC;
+Lazer/Balnear";RH3;Douro;;Douro
+Açude das Salgadas;APA;;;;PT04LIS0704;14/04/2014;30/06/2023;Lis;Rega;;CC N.º 1/AGRIC/SUP/RH4/2014;;;-;RH4A;Vouga, Mondego e Lis;;Lis
+Açude do Arrabalde;APA;;;;PT04LIS0709B;14/04/2014;30/06/2023;Rio Lis;Rega;;CC N.º 1/AGRIC/SUP/RH4/2014;;;-;RH4A;Vouga, Mondego e Lis;;Lis
+Açude da Castanheira (deriva caudais para AH Santa Luzia);Both;40.0797383;-7.8185768;24.4 MW;PT04MON0678;21/02/1957;01/01/2028;Rio Ceira;Energia;Substring;Decreto de 21 de fevereiro de 1957;244109392;Energias de Portugal;-;RH4A;Vouga, Mondego e Lis;Central Hidroelétrica de Santa Luzia;Mondego
+Açude do Ceiroco (deriva caudais para AH Santa Luzia);APA;;;;PT04MON0678;21/02/1957;01/01/2028;Rio Ceira;Energia;;Decreto de 21 de fevereiro de 1957;;;-;RH4A;Vouga, Mondego e Lis;;Mondego
+Açude do Tojo (deriva caudais para AH Santa Luzia);APA;;;;PT04MON0678;21/02/1957;01/01/2028;Rio Ceira;Energia;;Decreto de 21 de fevereiro de 1957;;;-;RH4A;Vouga, Mondego e Lis;;Mondego
+"Açude dos Trinta - deriva para
+central do Caldeirão";Both;40.5419578;-7.3361143;41.4 MW;PT04MON0618A;08/03/2008;31/12/2053;Rio Mondego;Energia;Substring;21/ENERGIA/INAG/2008 e adenda;1051201707;Energias de Portugal;-;RH4A;Vouga, Mondego e Lis;Central Hidroelétrica do Caldeirão;Mondego
+Aguieira;Both;40.3401127;-8.19686;336 MW;PT04MON0633;08/03/2008;31/12/2052;Albufeira da Aguieira;Energia;Exact;19/ENERGIA/INAG/2008;969659867;Energias de Portugal;"Abastecimento público - CC;
+Rega";RH4A;Vouga, Mondego e Lis;Central Hidroelétrica da Aguieira;Mondego
+Alto Ceira II;APA;;;;PT04MON0678;21/02/1957;01/01/2028;Rio Ceira;Energia;;Decreto de 21 de fevereiro de 1957;;;-;RH4A;Vouga, Mondego e Lis;;Mondego
+Avô;APA;;;;PT04MON0658;10/02/1997;10/02/2032;Rio Alva;Energia;;Alvará de Licença N.º 118/97 MH (10);;;-;RH4A;Vouga, Mondego e Lis;;Mondego
+Caldeirão;APA;;;;PT04MON0597;08/03/2008;31/12/2052;"Albufeira do Caldeirão
+(Mondego)";Energia;;CC N.º 21/ENERGIA/INAG/2008;;;Abastecimento público - CC;RH4A;Vouga, Mondego e Lis;;Mondego
+Caniça;APA;;;;PT04MON0624;09/10/1968;09/10/2028;"Ribeira da Caniça (HMWB -
+Jusante B. Lagoa Comprida)";Energia;;"Decreto de concessão de  9 de outubro de
+1968";;;-;RH4A;Vouga, Mondego e Lis;;Mondego
+Casal de Ermio;APA;;;;PT04MON0679;31/12/2023;31/12/2058;Rio Ceira;Energia;;CC N.º 01/ENERGIA/APA-ARHC/2020;;;Rega - CC;RH4A;Vouga, Mondego e Lis;;Mondego
+Covão da Erva da Fome;APA;;;;PT04MON0617;09/10/1968;09/10/2028;"Ribeira da Fervença (HMWB -
+Jusante B. Vale Rossim)";Energia;;"Decreto de concessão de  9 de outubro de
+1968";;;-;RH4A;Vouga, Mondego e Lis;;Mondego
+Covão do Boieiro/Boeiro;APA;;;;PT04MON0634;09/10/1968;09/10/2028;Ribeira de Loriga;Energia;;"Decreto de concessão de  9 de outubro de
+1968";;;-;RH4A;Vouga, Mondego e Lis;;Mondego
+Covão do Curral;APA;;;;PT04MON0624;09/10/1968;09/10/2028;"Ribeira da Caniça (HMWB -
+Jusante B. Lagoa Comprida)";Energia;;"Decreto de concessão de  9 de outubro de
+1968";;;-;RH4A;Vouga, Mondego e Lis;;Mondego
+Covão do Forno;APA;;;;PT04MON0624;09/10/1968;09/10/2028;"Ribeira da Caniça (HMWB -
+Jusante B. Lagoa Comprida)";Energia;;"Decreto de concessão de  9 de outubro de
+1968";;;-;RH4A;Vouga, Mondego e Lis;;Mondego
+Covão do Meio;APA;;;;PT04MON0634;09/10/1968;09/10/2028;Ribeira de Loriga;Energia;;"Decreto de concessão de  9 de outubro de
+1968";;;-;RH4A;Vouga, Mondego e Lis;;Mondego
+Covão do Vale do Conde;APA;;;;PT04MON0621;09/10/1968;09/10/2028;Ribeiro do Covão do Urso;Energia;;"Decreto de concessão de  9 de outubro de
+1968";;;-;RH4A;Vouga, Mondego e Lis;;Mondego
+Covão dos Conchos;APA;;;;PT04MON0621;09/10/1968;09/10/2028;Ribeiro do Covão do Urso;Energia;;"Decreto de concessão de  9 de outubro de
+1968";;;-;RH4A;Vouga, Mondego e Lis;;Mondego
+"Fronhas - deriva para central
+da Aguieira";Both;40.2463268;-8.1645557;0.8 MW;PT04MON0654;08/03/2008;31/12/2052;Albufeira das Fronhas;Energia;Substring;CC N.º 19/ENERGIA/INAG/2008 e adenda;19656209;HEC - Hidroeléctrica do Centro;-;RH4A;Vouga, Mondego e Lis;Central Hidroelétrica de Fronhas;Mondego
+"Lagoa Comprida (Barragem
+Marques da Silva)";APA;;;;PT04MON0629;09/10/1968;09/10/2028;Albufeira Lagoa Comprida;Energia;;"Decreto de concessão de  9 de outubro de
+1968";;;Lazer;RH4A;Vouga, Mondego e Lis;;Mondego
+Lagoacho;APA;;;;PT04MON0621;09/10/1968;09/10/2028;Ribeiro do Covão do Urso;Energia;;"Decreto de concessão de  9 de outubro de
+1968";;;-;RH4A;Vouga, Mondego e Lis;;Mondego
+Levada-a-Velha;Both;40.6459661;-7.7318592;0.2 MW;PT04MON0578;31/12/1996;31/12/2031;Rio Dão;Energia;Exact;Alvará de Licença N.º 230/96 – MH (1);1227795225;Aplicações Hidroeléctricas da Beira Alta;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico da Levada-a-Velha;Mondego
+MACIEIRA;APA;;;;PT04MON0623;17/12/2020;17/12/2045;Ribeira de Mortágua;Rega;;CC N.º 01/REGA/CAP.SUP./RH4/2020;;;-;RH4A;Vouga, Mondego e Lis;;Mondego
+Moinhos;Both;40.2595065;-8.0305539;0.8 MW;PT04MON0600;28/11/1997;28/11/2032;Rio do Castelo;Energia;Substring;Alvará Licença nº 836/97 - MH(16);1227840424;Energias de Portugal;Rega - CC;RH4A;Vouga, Mondego e Lis;Central Hidroelétrica de Rei de Moinhos;Mondego
+Múceres;Both;40.5407305;-8.1666529;0.3 MW;PT04MON0603;10/02/1997;10/02/2032;Rio Criz;Energia;Exact;Alvará de Licença n.º 120/97 - MH(9);1227795218;Hidroeléctrica de Múceres;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico de Múceres;Mondego
+"Nossa Senhora do Desterro
+(Açude do Poço Negro)";Both;40.3983168;-7.6870319;12.9 MW;PT04MON0626;09/10/1968;09/10/2028;Rio Alva;Energia;Substring;"Decreto de concessão de  9 de outubro de
+1968";759354186;Energias de Portugal;Abastecimento público - CC;RH4A;Vouga, Mondego e Lis;Central Hidroelétrica do Desterro;Mondego
+Penacova;Both;40.2973008;-8.2481301;9.6 MW;PT04MON0638A;01/04/2002;01/04/2037;"Rio Mondego (HMWB - Jusante
+Aç. Raiva)";Energia;Exact;Alvará de Licença N.º 307/96 – MH (3);564481295;Aquila Capital;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico de Penacova;Mondego
+Ponte de Fagilde;Both;40.6293545;-7.82543;2.4 MW;PT04MON0598;30/11/1998;30/11/2033;"Rio Dão (HMWB - Jusante B.
+Fagilde)";Energia;Substring;Alvará de Licença nº 237/96-MH(2);1317424510;Aquila Capital;-;RH4A;Vouga, Mondego e Lis;Central Hidroelétrica de Fagilde;Mondego
+Ponte de Jugais;Both;40.3848096;-7.7049682;20.3 MW;PT04MON0626;09/10/1968;09/10/2028;Rio Alva;Energia;Exact;"Decreto de concessão de  9 de outubro de
+1968";252112766;Energias de Portugal;-;RH4A;Vouga, Mondego e Lis;Central Hidroelétrica da Ponte de Jugais;Mondego
+Raiva;Both;40.3090573;-8.2486186;23 MW;PT04MON0635;08/03/2008;31/12/2053;Albufeira da Raiva;Energia;Exact;CC N.º 20/ENERGIA/INAG/2008;361997761;Energias de Portugal;-;RH4A;Vouga, Mondego e Lis;Central Hidroelétrica da Raiva;Mondego
+Rei de Moinhos (v);APA;;;;PT04MON0658;05/08/1939;05/08/2028;Rio Alva;Energia;;Decreto de 5 de agosto de 1939;;;-;RH4A;Vouga, Mondego e Lis;;Mondego
+Ribeira do Paúl;APA;;;;PT04MON0608;11/07/2012;11/07/2047;Rio Dinha;Industrial;;CC N.º 02/ABAST/ARHC/2012;;;-;RH4A;Vouga, Mondego e Lis;;Mondego
+Vale do Rossim;Both;40.3997856;-7.5886517;10 MW;PT04MON0620;09/10/1968;09/10/2028;Albufeira de Vale Rossim;Energia;Exact;"Decreto de concessão de  9 de outubro de
+1968";1227769058;Energias de Portugal;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico do Vale do Rossim;Mondego
+Vila Cova;Both;40.379713;-7.7279431;22.9 MW;PT04MON0626;09/10/1968;09/10/2028;Rio Alva;Energia;Exact;"Decreto de concessão de  9 de outubro de
+1968";252114919;Energias de Portugal;-;RH4A;Vouga, Mondego e Lis;Central Hidroelétrica de Vila Cova;Mondego
+"Açude Malhada de
+Cambarinho";APA;;;;PT04VOU0548;24/05/2013;24/05/2023;Rio Alfusqueiro;Rega;;A007913.2013.RH4;;;-;RH4A;Vouga, Mondego e Lis;;Vouga
+Águas Frias;Both;40.8112087;-8.0371669;2.2 MW;PT04VOU0515;10/02/1997;10/02/2032;Rio Sul;Energia;Exact;Alvará de Licença nº 119/97 - MH (8);1227685884;RP GLOBAL PORTUGAL;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico de Águas Frias;Vouga
+Aproveitamento Hidroelétrico de Lourizela (Lote 7C);APA;;;;PT04VOU0528A;09/09/2024;09/09/2069;Rio Lordelo;Energia;;CC N.º 01/ENERGIA/APA-ARHC/2021;;;-;RH4A;Vouga, Mondego e Lis;;Vouga
+Aproveitamento Hidroelétrico de Rio de Mel (Lote 8C);APA;;;;PT04VOU0519;30/09/2019;30/09/2064;Rio de Mel;Energia;;CC N.º 01/ENERGIA/APA-ARHC/2017;;;-;RH4A;Vouga, Mondego e Lis;;Vouga
+Areeiro;Both;40.8079616;-8.4500312;0.4 MW;PT04VOU0523;31/12/1993;31/12/2028;Rio Caima;Energia;Exact;Alvará de Licença N.º 76;1227770837;EcoCaima - Central Hídrica;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico do Areeiro;Vouga
+Bertelhe;Both;40.7543465;-7.8426579;0.3 MW;PT04VOU0520;31/12/1996;31/12/2031;Rio Vouga;Energia;Exact;Alvará de Licença N.º 251/96 - MH (4);1227795230;Aplicações Hidroeléctricas da Beira Alta;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico de Bertelhe;Vouga
+"Burgães (Barragem Eng.º
+Duarte Pacheco)";APA;;;;PT04VOU0506;14/11/2017;14/11/2037;Rio Caima;Rega;;CC N.º 01/AGRIC/SUP/RH4/2017;;;Abastecimento público - CC;RH4A;Vouga, Mondego e Lis;;Vouga
+Carregal / Manhouce;Both;40.807586;-8.2430146;5 MW;PT04VOU0513A;09/10/1992;09/10/2027;Rio Teixeira;Energia;Substring;Alvará de Licença N.º 62;1227771325;RP GLOBAL PORTUGAL;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico do Carregal;Vouga
+Cercosa;Both;40.670411;-8.2468344;4.2 MW;PT04VOU0548;14/05/1997;14/05/2032;Rio Alfusqueiro;Energia;Exact;Alvara Licença Nº 15/89;1227781357;Generg;-;RH4A;Vouga, Mondego e Lis;Central Hidroelétrica da Cercosa;Vouga
+Ermida (Ribeiradio);Both;40.0962528;-8.2270503;353 kW;PT04VOU0546B;31/07/2015;31/07/2090;Albufeira de Ermida;Energia;Substring;CC N.º 02/2009 e 3 adendas;221140173;Energias de Portugal;-;RH4A;Vouga, Mondego e Lis;Central Hidroelétrica da Ermida;Vouga
+Fumadinha;APA;;;;PT04VOU0516;17/07/2009;15/09/2030;Rio Vouga;Lazer;;CC N.º 9/ABAST/ARH Centro;;;-;RH4A;Vouga, Mondego e Lis;;Vouga
+Grela;Both;40.7058078;-8.3632844;0.6 MW;PT04VOU0546A;25/11/1993;25/11/2038;"Rio Vouga (HMWB - Jusante B.
+Ermida)";Energia;Exact;Alvará de Licença N.º 101;155604809;Generg;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico da Grela;Vouga
+Ossela (Carvalhal);Both;40.8261479;-8.415477;0.5 MW;PT04VOU0523;21/11/1990;21/11/2045;Rio Caima;Energia;Substring;Alvará de Licença nº 7/89;581938505;Pecuaria Pinto Triunfante de Vale de Cambra;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico do Carvalhal;Vouga
+Palhal;Both;40.7428045;-8.4605957;2.6 MW;PT04VOU0553;31/12/1991;31/12/2026;Rio Vouga;Energia;Exact;Alvará de Licença nº 44  de 25.6.1990;227955239;Aquila Capital;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico de Palhal;Vouga
+Paredes;Both;40.7522564;-8.1730187;3.8 MW;PT04VOU0529A;16/02/1996;16/02/2031;Rio Valoso;Energia;Exact;Alvará de Licença nº 67;1227780037;RP GLOBAL PORTUGAL;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico de Paredes;Vouga
+Pego;Both;38.4177341;-8.3934664;2 MW;PT04VOU0523;09/03/1998;09/03/2033;Rio Caima;Energia;Substring;Alvará de Licença N.º 10/C – A.H.E.;544239109;Direção-Geral de Agricultura e Desenvolvimento Rural;-;RH4A;Vouga, Mondego e Lis;Central Hidroelétrica do Pego do Altar;Vouga
+Pereiras;APA;;;;PT04VOU0548;em avaliação;em avaliação;Rio Alfusqueiro;Rega;;A017574.2016.RH4A;;;-;RH4A;Vouga, Mondego e Lis;;Vouga
+Ponte do Vouguinha;Both;40.7724974;-7.794174;0.3 MW;PT04VOU0520;28/11/1997;28/11/2032;Rio Vouga;Energia;Exact;Alvará de Licença N.º 802/97 - MH(15);1227795231;Electricidade da Beira;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico da Ponte Vouguinha;Vouga
+Quinta de Valgode;Both;40.7300799;-8.1076292;0.6 MW;PT04VOU0530A;05/12/1996;05/12/2031;Rio Vouga;Energia;Exact;Alvará de Licença n.º 873/96  - MH(7);925537354;HV - Hidroeléctrica de Valgode;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico da Quinta de Valgode;Vouga
+Ribeiradio;Both;40.7418881;-8.3218452;73.6 MW;PT04VOU0546C;31/07/2015;31/07/2090;Albufeira de Ribeiradio;Energia;Exact;CC N.º 02/2009 e 3 adendas;804443636;Energias de Portugal;-;RH4A;Vouga, Mondego e Lis;Central Hidroelétrica do Ribeiradio;Vouga
+S. Pedro do Sul;APA;;;;PT04VOU0530A;31/01/1994;31/01/2029;Rio Vouga;Energia;;Alvará de Licença nº 73;;;-;RH4A;Vouga, Mondego e Lis;;Vouga
+Soutinho;Both;40.6023667;-8.2946439;3.2 MW;PT04VOU0560;31/12/1991;31/12/2026;Rio Águeda;Energia;Exact;Alvará de Licença nº 38;1227781362;Generg;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico de Soutinho;Vouga
+Talhadas (Lourizela);Both;40.6470576;-8.3177396;5.4 MW;PT04VOU0559;em avaliação;em avaliação;Rio Águeda;Energia;Substring;Alvará de Licença N.º 23;1227781358;Generg;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico de Talhadas;Vouga
+Teixo e Dornas;Both;40.576353;-8.28055;7 MW;PT04VOU0556;06/11/2009;06/11/2044;Ribeira de Souto;Energia;Substring;CC N.º  01/C/E/CC DR/Centro/2008;1202722882;RP GLOBAL PORTUGAL;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico do Teixo;Vouga
+Várzea de Calde;APA;;;;PT04VOU0520;16/01/2015;16/01/2035;Rio Vouga;Rega;;CC N.º 01/AGRIC/SUP/RH4/2015;;;Abastecimento público - CC;RH4A;Vouga, Mondego e Lis;;Vouga
+Vilar do Monte;Both;40.7558403;-7.9489641;10 MW;PT04VOU0520;22/08/2018;22/08/2053;Rio Vouga;Energia;Exact;CC N.º 05/2009;1227795226;RP Global Portugal;-;RH4A;Vouga, Mondego e Lis;Aproveitamento Hidroelétrico de Vilar do Monte;Vouga
+"Açude do Aproveitemento
+Hidroagricola de Cela";APA;;;;PT05RDW1157;18/04/2011;18/04/2031;Rio Alcoa;Rega;;ARHT/0021.11/T/C.CA.S;;;-;RH5A;Tejo e Ribeiras do Oeste;;"Ribeiras do
+Oeste"
+Alvorninha;APA;;;;PT05RDW1163;30/04/2013;30/04/2033;Rio da Tornada;Rega;;ARHT/082.13/R/C.CA.S/APA/2013;;;-;RH5A;Tejo e Ribeiras do Oeste;;"Ribeiras do
+Oeste"
+Óbidos;APA;;;;PT05RDW1169A;24/11/2016;31/12/2036;Rio Real;Rega;;ARHTO/120.16/R/C.CAS, 24.11.2016;;;-;RH5A;Tejo e Ribeiras do Oeste;;"Ribeiras do
+Oeste"
+Açafal;APA;;;;PT05TEJ0896A;12/06/2020;31/12/2045;Ribeira do Açafal;Rega;;APA/ARHTO/012.20/T/C.CA.S;;;-;RH5A;Tejo e Ribeiras do Oeste;;Tejo
+Alforfa;Both;40.2757364;-7.6117633;7.5 MW;PT05TEJ0749;16/01/1995;16/01/2030;Ribeira de Alforfa;Energia;Substring;Alvará de Licença de 16.1.1995;191457692;HIDROCORGO;-;RH5A;Tejo e Ribeiras do Oeste;Aproveitamento Hidroelétrico da Ribeira de Alforfa;Tejo
+Apartadura;APA;;;;PT05TEJ0964;01/01/2009;20/04/2031;Albufeira da Apartadura;Rega;;CC n.º ARHTO/016.20/R/C.CAS;;;Abastecimento público - CC;RH5A;Tejo e Ribeiras do Oeste;;Tejo
+Barroca;Both;40.1115364;-7.7297053;2 MW;PT05TEJ0785;11/04/2009;11/04/2032;Rio Zêzere;Energia;Exact;ARHT/2181.09/T/C.CA.S;1227840429;DiretrizVerde;-;RH5A;Tejo e Ribeiras do Oeste;Central Hidroelétrica da Barroca;Tejo
+Belver;Both;39.4808281;-7.9984225;79 MW;PT05TEJ0936;01/09/1947;09/10/2027;Albufeira de Belver;Energia;Exact;"Decreto de 14 de agosto de 1947 publicado com o caderno de encargos no DG de 1 de
+setembro de 1947";295762700;Energias de Portugal;-;RH5A;Tejo e Ribeiras do Oeste;Central Hidroelétrica de Belver;Tejo
+Bouçã;APA;;;;PT05TEJ0850A;08/03/2008;31/12/2032;Albufeira da Bouçã;Energia;;CC N.º  25/ENERGIA/INAG/2008;;;-;RH5A;Tejo e Ribeiras do Oeste;;Tejo
+"Caldas de Manteigas (Açude
+do AH)";Both;40.3883558;-7.5443922;6.7 MW;PT05TEJ0740;em avaliação;em avaliação;Rio Zêzere;Energia;Substring;Alvará de Licença nº 90 de 28.2.1992;1202502318;Generg;-;RH5A;Tejo e Ribeiras do Oeste;Aproveitamento Hidroelétrico de Manteigas;Tejo
+Carreteira;APA;;;;PT05TEJ1020;28/03/2019;em avaliação;Ribeiro das Vinhas;Rega;;APA/ARHTO/001.19/T/C.CA.S;;;-;RH5A;Tejo e Ribeiras do Oeste;;Tejo
+Carril;APA;;;;PT05TEJ0917;01/07/2020;31/12/2040;Rio Nabão;Rega;;APA/ARHTO/013.20/T/C.CA.S;;;-;RH5A;Tejo e Ribeiras do Oeste;;Tejo
+Castelo de Bode;Both;39.5426958;-8.3192016;159 MW;PT05TEJ0914A;08/03/2008;31/12/2032;Albufeira de Castelo do Bode;Energia;Exact;CC N.º  26/ENERGIA/INAG/2008;360309560;Energias de Portugal;"Abastecimento público - CC;
+Lazer/Balnear";RH5A;Tejo e Ribeiras do Oeste;Central Hidroelétrica de Castelo do Bode;Tejo
+"Covão Nave ( BARRAGEM DO
+Covão do Ferro)";Both;40.308516;-7.5897884;1.2 MW;PT05TEJ0749;16/01/1995;16/01/2030;Ribeira de Alforfa;Energia;Substring;Licença de Alvará de 16.1.1995;191467254;HIDROCORGO;-;RH5A;Tejo e Ribeiras do Oeste;Central Hidroelétrica do Covão do Ferro;Tejo
+Cristalina (Ribeira de Vide);APA;;;;PT05TEJ1010;12/12/2019;12/12/2029;Ribeira de Vide;Rega;;APA/ARHTO/020.19 /T/C.CA.S;;;-;RH5A;Tejo e Ribeiras do Oeste;;Tejo
+Divor;APA;;;;PT05TEJ1128;03/06/2011;03/06/2031;Albufeira do Divor;Rega;;ARHT/0035.11/T/C.CA.S;;;-;RH5A;Tejo e Ribeiras do Oeste;;Tejo
+Estrela;APA;;;;PT05TEJ0749;16/01/1995;16/01/2030;Ribeira de Alforfa;Energia;;Licença de Alvará de 16.1.1995;;;-;RH5A;Tejo e Ribeiras do Oeste;;Tejo
+Fratel;Both;39.5425773;-7.8028267;130 MW;PT05TEJ0913A;08/03/2008;31/12/2052;Albufeira do Fratel;Energia;Exact;CC N.º  22/ENERGIA/INAG/2008;362486885;Energias de Portugal;-;RH5A;Tejo e Ribeiras do Oeste;Central Hidroelétrica de Fratel;Tejo
+Freixeirinha;APA;;;;PT05TEJ1108B;21/03/2022;30/04/2046;Albufeira da Freixeirinha;Rega;;ARHTO/02.21/T/C.CAS;;;-;RH5A;Tejo e Ribeiras do Oeste;;Tejo
+Furadouro;APA;;;;PT05TEJ1035;02/12/2010;02/12/2030;"Ribeira da Raia (HMWB -
+Jusante B. Maranhão)";Rega;;ARHT/2071.10/T/C.CA.S;;;-;RH5A;Tejo e Ribeiras do Oeste;;Tejo
+Gameiro;Both;38.9548042;-8.1107463;1.4 MW;PT05TEJ1035;02/12/2010;02/12/2030;"Ribeira da Raia (HMWB -
+Jusante B. Maranhão)";Rega;Exact;ARHT/2071.10/T/C.CA.S;1227857391;Direção-Geral de Agricultura e Desenvolvimento Rural;Energia;RH5A;Tejo e Ribeiras do Oeste;Central Hidroelétrica do Gameiro;Tejo
+Idanha (Marechal Carmona);Both;39.9443837;-7.2011837;2.5 MW;PT05TEJ0818;29/04/2011;29/04/2031;"Albufeira Marechal Carmona -
+Idanha";Rega;Substring;ARHT/0004.11/T/C.CA.S;543491301;Direção-Geral de Agricultura e Desenvolvimento Rural;Energia;RH5A;Tejo e Ribeiras do Oeste;Aproveitamento Hidroelétrico da Idanha;Tejo
+"Janeiro de Cima (Açude do
+AH)/ ""Porto das Vacas""";APA;;;;PT05TEJ0798;em avaliação;em avaliação;Rio Zêzere;Energia;;"Alvará de Licença nº 64 de 6 de novembro de
+1990";;;-;RH5A;Tejo e Ribeiras do Oeste;;Tejo
+Lapa;APA;;;;PT05TEJ0934;30/09/1991;em avaliação;Ribeira de Arcês;Rega;;Alvará de Licença n.º 86;;;-;RH5A;Tejo e Ribeiras do Oeste;;Tejo
+Magos;APA;;;;PT05TEJ1033;02/12/2010;02/12/2030;Albufeira de Magos;Rega;;ARHT/2071.10/T/C.CA.S;;;-;RH5A;Tejo e Ribeiras do Oeste;;Tejo
+Maranhão;Both;39.0157459;-7.9771717;6.1 MW;PT05TEJ1030A;02/12/2010;02/12/2030;Albufeira do Maranhão;Rega;Exact;ARHT/2071.10/T/C.CA.S;380992411;Direção-Geral de Agricultura e Desenvolvimento Rural;"Energia; Industrial";RH5A;Tejo e Ribeiras do Oeste;Aproveitamento Hidroelétrico de Maranhão;Tejo
+Minutos;APA;;;;PT05TEJ1142;01/06/2011;01/06/2031;Albufeira dos Minutos;Rega;;ARHTO/0034.11/T/C.CA.S;;;-;RH5A;Tejo e Ribeiras do Oeste;;Tejo
+Montargil;Both;39.0532029;-8.177787;3.6 MW;PT05TEJ1015;02/12/2010;02/12/2030;Albufeira de Montargil;Rega;Exact;ARHT/2071.10/T/C.CA.S;134132582;Direção-Geral de Agricultura e Desenvolvimento Rural;"Energia; Industrial; Lazer";RH5A;Tejo e Ribeiras do Oeste;Central Hidroelétrica de Montargil;Tejo
+Pedra Figueira;Both;40.2865623;-7.5998127;0.9 MW;PT05TEJ0749;16/01/1995;16/01/2030;Ribeira de Alforfa;Energia;Exact;Licença de Alvará de 16.1.1995;191467248;HIDROCORGO;-;RH5A;Tejo e Ribeiras do Oeste;Aproveitamento Hidroelétrico da Pedra da Figueira;Tejo
+Pracana;Both;39.5649337;-7.8127951;40 MW;PT05TEJ0910;08/03/2008;31/12/2052;Albufeira da Pracana;Energia;Exact;CC N.º  23/ENERGIA/INAG/2008;182567144;Energias de Portugal;-;RH5A;Tejo e Ribeiras do Oeste;Central Hidroelétrica de Pracana;Tejo
+Santa Luzia;APA;;;;PT05TEJ0783;21/02/1957;01/01/2028;Albufeira de Santa Luzia;Energia;;Decreto de 21 de fevereiro de 1957;;;"Abastecimento público - CC;
+Lazer/Balnear";RH5A;Tejo e Ribeiras do Oeste;;Tejo
+Morgavel;APA;;;;PT06SUL1645;17/07/2009;27/12/2031;Albufeira de Morgavel;Industrial;;CC 1/CSp/SD/2009;;;-;RH6;Sado e Mira;;Costeiras
+Corte Brique;APA;;;;PT06MIR1386;27/10/2011;31/12/2030;Ribeira de Corte Brique;Rega;;CC N.º 8/CSB/MR/2011;;;-;RH6;Sado e Mira;;Mira
+Santa Clara;APA;;;;PT06MIR1392;27/10/2011;31/12/2030;Albufeira de Santa Clara;Rega e energia;;CC N.º 8/CSB/MR/2011;;;"Abastecimento público - CC;
+Industrial; Balnear";RH6;Sado e Mira;;Mira
+Açude de Benecolares;APA;;;;PT06SAD1337;30/09/2011;31/12/2030;Ribeira de São Domingos;Rega;;CC N.º 3/CSB/SD/2011 de 30.09.2011;;;-;RH6;Sado e Mira;;Sado
+Açude Marruais;APA;;;;PT06SAD1273;17/10/2007;16/10/2082;Albufeira de Alvito;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;-;RH6;Sado e Mira;;Sado
+Açude Monte do Bolor;APA;;;;PT06SAD1306A;17/10/2007;16/10/2082;Ribeira do Álamo;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;-;RH6;Sado e Mira;;Sado
+Açude Vale de Carro;APA;;;;PT06SAD1273;17/10/2007;16/10/2082;Albufeira de Alvito;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;-;RH6;Sado e Mira;;Sado
+Açude Vale do Zebro;APA;;;;PT06SAD1337;30/09/2011;31/12/2030;Ribeira de São Domingos;Rega;;CC N.º 3/CSB/SD/2011 de 30.09.2011;;;-;RH6;Sado e Mira;;Sado
+Alvito;Both;38.2765875;-7.9110392;3.4 MW;PT06SAD1273;17/10/2007;16/10/2082;Albufeira de Alvito;Rega;Exact;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";605050477;Energias de Portugal;"Abastecimento público - CC;
+Energia";RH6;Sado e Mira;Aproveitamento Hidroelétrico do Alvito;Sado
+Campilhas;APA;;;;PT06SAD1345;30/09/2011;31/12/2030;Albufeira de Campilhas;Rega;;CC N.º 3/CSB/SD/2011 de 30.09.2011;;;-;RH6;Sado e Mira;;Sado
+Cinco Reis;APA;;;;PT06SAD1323;17/10/2007;16/10/2082;Ribeira do Outeiro;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;Balnear;RH6;Sado e Mira;;Sado
+"Ferreira ou reservatorio do
+bloco III";APA;;;;PT06SAD1304;29/10/2013;31/12/2030;Ribeira da Capela;Rega;;CC N.º 2/CSP/SD/2013 de 29.10.2013;;;-;RH6;Sado e Mira;;Sado
+Fonte Serne;APA;;;;PT06SAD1340;30/09/2011;31/12/2030;Albufeira de Fonte Serne;Rega;;CC N.º 3/CSB/SD/2011 de 30.09.2011;;;-;RH6;Sado e Mira;;Sado
+Lagoa Vermelha;APA;;;;PT06SAD1311A;29/10/2013;31/12/2030;Ribeira da Figueira;Rega;;CC N.º 2/CSP/SD/2013 de 29.10.2013;;;-;RH6;Sado e Mira;;Sado
+Marmelo (Monte Marmelo);APA;;;;PT06SAD1311A;29/10/2013;31/12/2030;Ribeira da Figueira;Rega;;CC N.º 2/CSP/SD/2013 de 29.10.2013;;;-;RH6;Sado e Mira;;Sado
+Monte Branco;APA;;;;PT06SAD1311A;29/10/2013;31/12/2030;Ribeira da Figueira;Rega;;CC N.º 2/CSP/SD/2013 de 29.10.2013;;;-;RH6;Sado e Mira;;Sado
+Monte da Rocha;APA;;;;PT06SAD1361;30/09/2011;31/12/2030;Albufeira Monte da Rocha;Rega;;CC N.º 3/CSB/SD/2011 de 30.09.2011;;;Abastecimento público - CC;RH6;Sado e Mira;;Sado
+Monte Gato;APA;;;;PT06SAD1357;30/09/2011;31/12/2030;Ribeira da Ferraria;Rega;;CC N.º 3/CSB/SD/2011 de 30.09.2011;;;-;RH6;Sado e Mira;;Sado
+Monte Miguéis;APA;;;;PT06SAD1357;30/09/2011;31/12/2030;Ribeira da Ferraria;Rega;;CC N.º 3/CSB/SD/2011 de 30.09.2011;;;-;RH6;Sado e Mira;;Sado
+Odivelas;Both;38.2193977;-8.0587929;2.5 MW;PT06SAD1290;29/10/2013;31/12/2030;Albufeira de Odivelas;Rega;Substring;CC N.º 2/CSP/SD/2013 de 29.10.2013;600784274;Energias de Portugal;Energia;RH6;Sado e Mira;Central Mini-Hídrica de Odivelas;Sado
+Pego do Altar;APA;;;;PT06SAD1235;27/10/2011;31/12/2030;Albufeira de Pego do Altar;Rega;;CC N.º 9/CSP/SD/2011 de 27.10.2011;;;Energia;RH6;Sado e Mira;;Sado
+Penedrão;APA;;;;PT06SAD1309C;17/10/2007;16/10/2082;Albufeira de Penedrão;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;-;RH6;Sado e Mira;;Sado
+Pisão;Both;38.080337;-7.9773629;0.6 MW;PT06SAD1303A;17/10/2007;16/10/2082;Albufeira do Pisão;Rega;Exact;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";540796391;Energias de Portugal;Energia;RH6;Sado e Mira;Central Hidroelétrica do Pisão;Sado
+Roxo;Both;37.9301519;-8.0813695;1.7 MW;PT06SAD1331;27/10/2011;31/12/2030;Albufeira do Roxo;Rega;Exact;CC N.º 7/CSB/SD/2011;1227857393;Empresa de Desenvolvimento e Infra-estruturas do Alqueva;"Abastecimento público - CC;
+Industrial; Energia";RH6;Sado e Mira;Aproveitamento Hidroelétrico do Roxo;Sado
+Vale do Gaio;Both;38.2474868;-8.2968982;1 MW;PT06SAD1276;27/10/2011;31/12/2030;"Albufeira Trigo de Morais - Vale
+do Gaio";Rega;Exact;CC N.º 9/CSP/SD/2011 de 27.10.2011;540861354;Direção-Geral de Agricultura e Desenvolvimento Rural;Energia;RH6;Sado e Mira;Aproveitamento Hidroelétrico de Vale do Gaio;Sado
+Abrilongo;APA;;;;PT07GUA1407;16/11/2012;31/12/2030;Albufeira de Abrilongo;Rega;;CC N.º 8/CSP/GD/2012 de 16.11.2012;;;-;RH7;Guadiana;;Guadiana
+Álamos I;APA;;;;PT07GUA1487G;17/10/2007;16/10/2082;"Sistema de Albufeiras Álamo I
+e II";Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;-;RH7;Guadiana;;Guadiana
+Álamos II;APA;;;;PT07GUA1487G;17/10/2007;16/10/2082;"Sistema de Albufeiras Álamo I
+e II";Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;-;RH7;Guadiana;;Guadiana
+Álamos III;APA;;;;PT07GUA1487B;17/10/2007;16/10/2082;"Albufeira de Alqueva (Braço
+Degebe)";Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;-;RH7;Guadiana;;Guadiana
+Almeidas;APA;;;;PT07GUA1509A;17/10/2007;16/10/2082;Albufeira de São Pedro;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;-;RH7;Guadiana;;Guadiana
+Alqueva;Both;38.1967615;-7.4961577;255.6 MW;PT07GUA1487A;17/10/2007;16/10/2082;Albufeira de Alqueva (Principal);Rega;Substring;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";805120230;Energias de Portugal;"Abastecimento público - CC;
+Energia; Balnear/Lazer";RH7;Guadiana;Central Hidroelétrica do Alqueva I;Guadiana
+Amendoeira;APA;;;;PT07GUA1509A;17/10/2007;16/10/2082;Albufeira de São Pedro;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;-;RH7;Guadiana;;Guadiana
+Amoreira;APA;;;;PT07GUA1515C;17/10/2007;16/10/2082;Albufeira da Amoreira;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;Energia;RH7;Guadiana;;Guadiana
+Beliche;APA;;;;PT07GUA1624;25/02/2022;31/12/2048;Albufeira de Beliche;Rega;;"CC N.º  7/APA/ARHAlgarve/2012; CC
+1/EFM/2021 de 25.1.2022";;;-;RH7;Guadiana;;Guadiana
+Brinches;APA;;;;PT07GUA1520B;17/10/2007;16/10/2082;Albufeira de Brinches;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;Energia;RH7;Guadiana;;Guadiana
+Caia;Both;39.0003528;-7.1439503;0.6 MW;PT07GUA1422;16/11/2012;31/12/2030;Albufeira do Caia;Rega;Exact;CC N.º 6/CSB/GD/2012 de 16.11.2012;188127030;Associação de Beneficiários do Caia;"Abastecimento público - CC;
+Energia";RH7;Guadiana;Aproveitamento Hidroelétrico do Caia;Guadiana
+Caliços;APA;;;;PT07GUA1500;17/10/2007;16/10/2082;Ribeira Vale de Cervas;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;-;RH7;Guadiana;;Guadiana
+Furta Galinhas;APA;;;;PT07GUA1502;17/10/2007;16/10/2082;Ribeira de Brenhas;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;-;RH7;Guadiana;;Guadiana
+Laje;APA;;;;PT07GUA1527A;17/10/2007;16/10/2082;Albufeira da Laje;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;-;RH7;Guadiana;;Guadiana
+Loureiro;APA;;;;PT07GUA1473C;17/10/2007;16/10/2082;Albufeira do Loureiro;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;-;RH7;Guadiana;;Guadiana
+Lucefecit;APA;;;;PT07GUA1441;27/11/2011;31/12/2030;Albufeira de Lucefecit;Rega;;CC N.º 4/CSB/SD/2011 de 27.10.2011;;;-;RH7;Guadiana;;Guadiana
+Magra;APA;;;;PT07GUA1534A;17/10/2007;16/10/2082;Ribeira da Cardeira;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;Abastecimento público - CC;RH7;Guadiana;;Guadiana
+Monte Novo;APA;;;;PT07GUA1458A;06/08/2010;13/03/2033;Albufeira do Monte Novo;Rega;;CC N.º 1/CSP/GD/2010 de 6.8.2010;;;-;RH7;Guadiana;;Guadiana
+Odeleite;APA;;;;PT07GUA1618;25/02/2022;31/12/2048;Albufeira de Odeleite;Rega;;"CC N.º 3/APA/ARHAlgarve/2012; CC N.º
+1/EFM/2021 de 25.1.2022";;;"Abastecimento público - CC;
+Balnear";RH7;Guadiana;;Guadiana
+Pedrógão;Both;38.1096891;-7.6286184;10 MW;PT07GUA1513;17/10/2007;16/10/2082;Albufeira de Pedrogão;Rega;Exact;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";159043937;Energias de Portugal;"Energia; lazer";RH7;Guadiana;Central Hidroelétrica de Pedrógão;Guadiana
+Pias;APA;;;;PT07GUA1515B2;17/10/2007;16/10/2082;Albufeira de Pias;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;-;RH7;Guadiana;;Guadiana
+São Pedro;APA;;;;PT07GUA1509A;17/10/2007;16/10/2082;Albufeira de São Pedro;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;Energia;RH7;Guadiana;;Guadiana
+Selmes;APA;;;;PT07GUA1506;17/10/2007;16/10/2082;Barranco da Cabrita;Rega;;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";;;-;RH7;Guadiana;;Guadiana
+Serpa;Both;37.993297;-7.6058128;1.7 MW;PT07GUA1531B;17/10/2007;16/10/2082;Albufeira de Serpa;Rega;Exact;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";1160475196;Energias de Portugal;Energia;RH7;Guadiana;Aproveitamento Hidroelétrico de Serpa;Guadiana
+Vigia;APA;;;;PT07GUA1455;16/11/2012;31/12/2030;Albufeira da Vigia;Rega;;CC N.º 7/CSB/GD/2012 de 16.11.2012;;;Abastecimento público - CC;RH7;Guadiana;;Guadiana
+Arade;APA;;;;PT08RDA1669;16/11/2012;31/12/2030;Albufeira do Arade;Rega;;CC N.º 2/APA/ARHAlgarve/2012;;;Energia;RH8;Ribeiras do Algarve;;"Ribeiras do
+Algarve"
+Bravura (Odeáxere);APA;;;;PT08RDA1679;16/11/2012;10/03/2031;Albufeira de Odiáxere - Bravura;Rega;;CC N.º 1/APA/ARHAlgarve/2012;;;"Abastecimento público - CC;
+Energia";RH8;Ribeiras do Algarve;;"Ribeiras do
+Algarve"
+Central Hidroelétrica do Baixo Sabor - Escalão de Jusante;OpenInfraMap;41.2031419;-7.0945755;38 MW;;;;;Energia (Assumed);;;244605022;Movhera;;;;Central Hidroelétrica do Baixo Sabor - Escalão de Jusante;
+Central Hidroelétrica de Pretarouca;OpenInfraMap;41.0495368;-7.866625;1.75 MW;;;;;Energia (Assumed);;;361337137;Águas de Trás-os-Montes e Alto Douro;;;;Central Hidroelétrica de Pretarouca;
+Central Hidroelétrica de Ponte da Esperança;OpenInfraMap;41.5769175;-8.1680431;2.8 MW;;;;;Energia (Assumed);;;817137223;Energias de Portugal;;;;Central Hidroelétrica de Ponte da Esperança;
+Aproveitamento Hidrolétrico de Covas do Barroso;OpenInfraMap;41.6305353;-7.7949353;6.6 MW;;;;;Energia (Assumed);;;891463551;HIDROERG;;;;Aproveitamento Hidrolétrico de Covas do Barroso;
+Central Hidroelétrica de Vilar-Tabuaço;OpenInfraMap;41.1133574;-7.5516289;58 MW;;;;;Energia (Assumed);;;1227180209;Energias de Portugal;;;;Central Hidroelétrica de Vilar-Tabuaço;
+Aproveitamento Hidroelétrico do Amieiro/Galego;OpenInfraMap;41.3735676;-8.4142066;1.2 MW;;;;;Energia (Assumed);;;1227604665;TERMOLAN;;;;Aproveitamento Hidroelétrico do Amieiro/Galego;
+Aproveitamento Hidroelétrico da Fábrica Têxtil de Vizela;OpenInfraMap;41.3759755;-8.327753;1.2 MW;;;;;Energia (Assumed);;;1227604668;HIDROVIZ;;;;Aproveitamento Hidroelétrico da Fábrica Têxtil de Vizela;
+Aproveitamento Hidroelétrico dos Tecidos do Ferro;OpenInfraMap;41.4357926;-8.176132;0.8 MW;;;;;Energia (Assumed);;;1227616876;Companhia de Fiação e Tecidos do Ferro;;;;Aproveitamento Hidroelétrico dos Tecidos do Ferro;
+Central Hidroelétrica de Ribafeita;OpenInfraMap;40.7620198;-7.9779881;0.9 MW;;;;;Energia (Assumed);;;1233919212;Energias de Portugal;;;;Central Hidroelétrica de Ribafeita;
+Mini Central Hidroelétrica - ETA da Asseiceira;OpenInfraMap;39.514903;-8.4271215;1.5 MW;;;;;Energia (Assumed);;;1236127642;Empresa Portuguesa das Águas Livres;;;;Mini Central Hidroelétrica - ETA da Asseiceira;
+Central Hidroelétrica da Velada;OpenInfraMap;39.591364;-7.7092067;2 MW;;;;;Energia (Assumed);;;205580598;Energias de Portugal;;;;Central Hidroelétrica da Velada;
+Aproveitamento Hidroelétrico de Janeiro de Cima / Porto das Vacas;OpenInfraMap;40.0773449;-7.7960212;7.9 MW;;;;;Energia (Assumed);;;244113494;Hidroeléctrica do Zêzere;;;;Aproveitamento Hidroelétrico de Janeiro de Cima / Porto das Vacas;
+Central Hidroéletrica Sabugal-Meimoa;OpenInfraMap;40.268491;-7.1010363;5.7 MW;;;;;Energia (Assumed);;;326119082;Direção-Geral de Agricultura e Desenvolvimento Rural;;;;Central Hidroéletrica Sabugal-Meimoa;
+Central Hidroelétrica do Alqueva II;OpenInfraMap;38.1939738;-7.4968286;255.6 MW;;;;;Energia (Assumed);;;648169310;Energias de Portugal;;;;Central Hidroelétrica do Alqueva II;
+Central Hidroelétrica de Alva;OpenInfraMap;40.2936602;-7.9248562;1.622 MW;;;;;Energia (Assumed);;;1003407059;Hidroelétrica do Alva, Lda.;;;;Central Hidroelétrica de Alva;
+Central Hidroelétrica de Miranda II;OpenInfraMap;41.4881472;-6.2670631;189 MW;;;;;Energia (Assumed);;;1226928891;Movhera;;;;Central Hidroelétrica de Miranda II;
+Aproveitamento Hidroelétrico da Câmara de Manteigas;OpenInfraMap;40.3955757;-7.5389453;0.1 MW;;;;;Energia (Assumed);;;1227645252;Câmara Municipal de Manteigas;;;;Aproveitamento Hidroelétrico da Câmara de Manteigas;
+Aproveitamento Hidroelétrico de Gimonde;OpenInfraMap;41.8002678;-6.693395;0.2 MW;;;;;Energia (Assumed);;;1227829992;Câmara Municipal de Bragança;;;;Aproveitamento Hidroelétrico de Gimonde;
+Aproveitamento Hidroelétrico do Monte Redondo;OpenInfraMap;40.140018;-8.110853;0.523 MW;;;;;Energia (Assumed);;;1227840426;GESTHIDRO;;;;Aproveitamento Hidroelétrico do Monte Redondo;
+Central Mini-Hídrica de Serpa;OpenInfraMap;37.9959208;-7.5750485;1.5 MW;;;;;Energia (Assumed);;;1318882994;;;;;Central Mini-Hídrica de Serpa;
+Central Hidroelétrica de Queimadela;OpenInfraMap;41.5033294;-8.1634776;20 MW;;;;;Energia (Assumed);;;1324733345;;;;;Central Hidroelétrica de Queimadela;
+Aproveitamento Hidroelétrico do Azival;OpenInfraMap;40.760368;-8.0437314;8.2 MW;;;;;Energia (Assumed);;;380519061;Hidrocentrais Reunidas;;;;Aproveitamento Hidroelétrico do Azival;
+Aproveitamento Hidroelétrico do Montezinho;OpenInfraMap;41.9376382;-6.7752341;1.4 MW;;;;;Energia (Assumed);;;445324165;Câmara Municipal de Bragança;;;;Aproveitamento Hidroelétrico do Montezinho;
+Central Hidroelétrica de Bouçoais-Sonim;OpenInfraMap;41.7173222;-7.2048071;10 MW;;;;;Energia (Assumed);;;451641071;Aquila Capital;;;;Central Hidroelétrica de Bouçoais-Sonim;
+Mini-hídrica da Fábrica de Fiação de Tecidos do Bairro;OpenInfraMap;41.3681486;-8.4202839;;;;;;Energia (Assumed);;;823561092;Fábrica de Fiação e Tecidos de Bairro;;;;Mini-hídrica da Fábrica de Fiação de Tecidos do Bairro;
+Central Hidroelétrica do Guilhofrei;OpenInfraMap;41.5857365;-8.138368;4 MW;;;;;Energia (Assumed);;;1227427680;Energias de Portugal;;;;Central Hidroelétrica do Guilhofrei;
+Aproveitamento Hidroelétrico do Palmaz;OpenInfraMap;40.7933961;-8.4561066;0.5 MW;;;;;Energia (Assumed);;;1227770838;Hidrorecursos;;;;Aproveitamento Hidroelétrico do Palmaz;
+Aproveitamento Hidroelétrico de Drizes;OpenInfraMap;40.7462276;-8.065064;0.2 MW;;;;;Energia (Assumed);;;1227779481;Energias de Portugal;;;;Aproveitamento Hidroelétrico de Drizes;
+Aproveitamento Hidroelétrico de Safrujo;OpenInfraMap;40.0170777;-8.195873;0.5 MW;;;;;Energia (Assumed);;;1227840427;Sociedade para o Desenvolvimento de Castanheira de Pêra SA;;;;Aproveitamento Hidroelétrico de Safrujo;
+Central Hidroelétrica de Salamonde I;OpenInfraMap;41.6902607;-8.0923443;41 MW;;;;;Energia (Assumed);;;1426280013;Energias de Portugal;;;;Central Hidroelétrica de Salamonde I;
+Aproveitamento Hidroelétrico dos Coucinhos;OpenInfraMap;40.2721638;-7.6189776;3 MW;;;;;Energia (Assumed);;;191457515;HIDROCORGO;;;;Aproveitamento Hidroelétrico dos Coucinhos;
+Central Hidroelétrica de Sabugueiro I & II;OpenInfraMap;40.3966985;-7.662498;22.5 MW;;;;;Energia (Assumed);;;252112757;Energias de Portugal;;;;Central Hidroelétrica de Sabugueiro I & II;
+Aproveitamento Hidroelétrico da Bugalheira;OpenInfraMap;37.5497692;-8.7128919;1.4 MW;;;;;Energia (Assumed);;;292168449;Associação de Beneficiários do Mira;;;;Aproveitamento Hidroelétrico da Bugalheira;
+Central Hidroelétrica do Baixo Sabor - Escalão de Montante;OpenInfraMap;41.2280048;-7.0144694;144 MW;;;;;Energia (Assumed);;;449923115;Movhera;;;;Central Hidroelétrica do Baixo Sabor - Escalão de Montante;
+Central Hidroelétrica de Frades I;OpenInfraMap;41.6838212;-8.0175278;191.4 MW;;;;;Energia (Assumed);;;455366572;Energias de Portugal;;;;Central Hidroelétrica de Frades I;
+Central Hidroelétrica de Bruceira;OpenInfraMap;39.526474;-7.6101976;1.7 MW;;;;;Energia (Assumed);;;455366610;Energias de Portugal;;;;Central Hidroelétrica de Bruceira;
+Central Hidroelétrica do Ermal;OpenInfraMap;41.5781624;-8.1527885;10 MW;;;;;Energia (Assumed);;;817129809;Energias de Portugal;;;;Central Hidroelétrica do Ermal;
+Central Hidroelétrica do Pateiro;OpenInfraMap;40.5269879;-7.3410234;0.34 MW;;;;;Energia (Assumed);;;1110721743;Energias de Portugal;;;;Central Hidroelétrica do Pateiro;
+Aproveitamento Hidroelétrico de Ermida;OpenInfraMap;40.0997127;-8.2338937;8 MW;;;;;Energia (Assumed);;;1127623768;Energias de Portugal;;;;Aproveitamento Hidroelétrico de Ermida;
+Central Hidroelétrica do Lindoso;OpenInfraMap;41.8592316;-8.270213;44.1 MW;;;;;Energia (Assumed);;;1226536007;Energias de Portugal;;;;Central Hidroelétrica do Lindoso;
+Aproveitamento Hidroelétrico de Figueiral;OpenInfraMap;40.5592672;-8.1611456;0.2 MW;;;;;Energia (Assumed);;;1227795216;Aquila Capital;;;;Aproveitamento Hidroelétrico de Figueiral;
+Central Hidroelétrica de Senhorim;OpenInfraMap;40.5270406;-7.8222412;0.883 MW;;;;;Energia (Assumed);;;1227795222;Mini-Hídrica de Senhorim, Lda.;;;;Central Hidroelétrica de Senhorim;
+Aproveitamento Hidroelétrico da Peneda;OpenInfraMap;41.6629654;-7.5795518;0.6 MW;;;;;Energia (Assumed);;;1227829990;Hidroeléctrica Cova do Vale;;;;Aproveitamento Hidroelétrico da Peneda;
+Aproveitamento Hidroelétrico do Prado Novo;OpenInfraMap;41.9020092;-6.7388619;2.9 MW;;;;;Energia (Assumed);;;1227829993;Câmara Municipal de Bragança;;;;Aproveitamento Hidroelétrico do Prado Novo;
+Central Hidroelétrica da Ermida;OpenInfraMap;40.7142176;-8.3534437;7 MW;;;;;Energia (Assumed);;;1233931383;Energias de Portugal;;;;Central Hidroelétrica da Ermida;
+Central Hidroelétrica de Serra Serrada;OpenInfraMap;41.9589972;-6.7755979;3.4 MW;;;;;Energia (Assumed);;;1434837282;Câmara Municipal de Bragança;;;;Central Hidroelétrica de Serra Serrada;
+Central Hidroelétrica de Póvoa;OpenInfraMap;39.47865;-7.5539864;0.8 MW;;;;;Energia (Assumed);;;412959310;Energias de Portugal;;;;Central Hidroelétrica de Póvoa;
+Central Hidroelétrica de Frades II;OpenInfraMap;41.6810976;-8.0206857;736 MW;;;;;Energia (Assumed);;;455366583;Energias de Portugal;;;;Central Hidroelétrica de Frades II;
+Central Hidroelétrica da Senhora do Porto;OpenInfraMap;41.5558159;-8.2189766;8.8 MW;;;;;Energia (Assumed);;;455366592;Energias de Portugal;;;;Central Hidroelétrica da Senhora do Porto;
+Aproveitamento Hidroelétrico de Riba Côa;OpenInfraMap;40.7022188;-6.9305335;0.1 MW;;;;;Energia (Assumed);;;736488095;Energias de Portugal;;;;Aproveitamento Hidroelétrico de Riba Côa;
+Aproveitamento Hidroelétrico da Mesa do Galo I & II;OpenInfraMap;41.6647984;-7.9804595;2.1 MW;;;;;Energia (Assumed);;;1227616912;Caboareal;;;;Aproveitamento Hidroelétrico da Mesa do Galo I & II;
+Aproveitamento Hidroelétrico de Padrastos;OpenInfraMap;40.8493821;-8.3664014;0.2 MW;;;;;Energia (Assumed);;;1227770834;Central Hidroeléctrica do Caima;;;;Aproveitamento Hidroelétrico de Padrastos;
+Reservatório R6 - Carvoeiro;OpenInfraMap;40.6082677;-8.6082862;85 kW;;;;;Energia (Assumed);;;1227795221;SPHERAA;;;;Reservatório R6 - Carvoeiro;
+Central Hidroelétrica de Picote II;OpenInfraMap;41.3800609;-6.353239;241 MW;;;;;Energia (Assumed);;;19455283;Movhera;;;;Central Hidroelétrica de Picote II;
+Central Hidroelétrica da Bemposta I;OpenInfraMap;41.3018124;-6.4718881;238 MW;;;;;Energia (Assumed);;;19472397;Movhera;;;;Central Hidroelétrica da Bemposta I;
+Central Hidroelétrica de Miranda I;OpenInfraMap;41.4885123;-6.265234;180 MW;;;;;Energia (Assumed);;;19549760;Movhera;;;;Central Hidroelétrica de Miranda I;

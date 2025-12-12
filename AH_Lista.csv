@@ -1,0 +1,433 @@
+﻿Bacia Hidrográfica;Aproveitamento Hidráulico;N.º Contrato Concessão (CC);Finalidade CC;Data CC - Início;Data CC - Termo;Outros Usos albufeira;RH;Região hidrográfica;Código da massa de água;Designação da Massa de água
+Lima;Alto Lindoso;CC N.º  01/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2052;Lazer;RH1;Minho e Lima;PT01LIM0028;Albufeira do Alto Lindoso
+Lima;Labruja/Rendufe;Alvará de Licença nº 43 de 27.6.1990;Energia;15/02/1991;14/02/2026;-;RH1;Minho e Lima;PT01LIM0045;Rio Labruja
+Lima;Touvedo;CC N.º  02/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2052;Abastecimento público - CC;RH1;Minho e Lima;PT01LIM0036;Albufeira de Touvedo
+Minho;France (Covas);"Decreto de 11 de março de 1970, publicado
+23.4.1970";Energia;23/04/1970;22/04/2040;-;RH1;Minho e Lima;PT01MIN0021;Rio Coura
+Minho;Pagade;Alvará de Licença nº 8/89 de 04/12/1989;Energia;21/09/1994;21/09/2029;-;RH1;Minho e Lima;PT01MIN0021;Rio Coura
+Minho;Paus;Licença de Alvará nº 19/89, de 22/12/1989;Energia;21/09/1994;21/09/2029;-;RH1;Minho e Lima;PT01MIN0017;Rio Coura
+Ave;Açude/Azenha do Viseu;"Alvará de Licença nº 26/C-A.H.E, de
+10/09/2001";Energia;10/09/2001;10/09/2036;-;RH2;Cávado, Ave e Leça;PT02AVE0130;Rio Ave
+Ave;Amieiro Galego;Alvará Licença nº 47/90 de 25/07/1990;Energia;em avaliação;em avaliação;-;RH2;Cávado, Ave e Leça;PT02AVE0126;"Rio Ave (HMWB - Jusante B.
+Ermal - Guilhofrei)"
+Ave;Boavista (Rebordões);Alvará de Licença nº 36/90, de Abril de 1990;Energia;15/12/1994;15/12/2029;-;RH2;Cávado, Ave e Leça;PT02AVE0130;Rio Ave
+Ave;Bugio (Silvares);Alvara de Licença nº 27 de 25/03/2003;Energia;25/03/2003;25/03/2038;-;RH2;Cávado, Ave e Leça;PT02AVE0120;Rio Ferro
+Ave;Campelos;Alvará de Licença nº 48/90 de 25/07/1990;Energia;13/12/1991;13/12/2026;-;RH2;Cávado, Ave e Leça;PT02AVE0126;"Rio Ave (HMWB - Jusante B.
+Ermal - Guilhofrei)"
+Ave;Caneiro;"Alvará de Licença nº 006/C-AHE, de
+30/04/1996";Energia;09/06/2000;09/06/2035;-;RH2;Cávado, Ave e Leça;PT02AVE0130;Rio Ave
+Ave;Caniços (Vizela);"CC N.º C00001/2014.RH2.1198.A, de
+144/04/2014";Energia;14/04/2014;14/04/2054;-;RH2;Cávado, Ave e Leça;PT02AVE0130;Rio Ave
+Ave;Carvalho do Moínho;"Alvará de Licença nº 007/C.AHE,  de
+28/11/1996";Energia;28/11/1996;28/11/2031;-;RH2;Cávado, Ave e Leça;PT02AVE0118;Ribeira do Selho
+Ave;Corvete;Decreto de 6.3.1972;Energia;em avaliação;em avaliação;-;RH2;Cávado, Ave e Leça;PT02AVE0120;Rio Ferro
+Ave;Lourido;Alvará de Licença n.º 95 de 30/10/1991;Energia;23/07/1998;23/07/2033;-;RH2;Cávado, Ave e Leça;PT02AVE0120;Rio Ferro
+Ave;Negrelos II (Vau;"CC N.º C00002/2014-RH2.1198.A, de 14-04-
+2014";Energia;14/04/2014;14/04/2054;-;RH2;Cávado, Ave e Leça;PT02AVE0130;Rio Ave
+Ave;Rego do Naval;"CC N.º C00012/2010.RH2.1198.A, de
+28/12/2010";Energia;28/12/2010;22/01/2042;-;RH2;Cávado, Ave e Leça;PT02AVE0130;Rio Ave
+Ave;Ronfe;"Alvará Licença Nº 112 de 1993 com
+aditamento de 3.10.2005";Energia;03/08/1993;03/08/2028;-;RH2;Cávado, Ave e Leça;PT02AVE0126;"Rio Ave (HMWB - Jusante B.
+Ermal - Guilhofrei)"
+Cávado;"Abelheira I (deriva para AH
+Paradela)";CC N.º  05/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2032;-;RH2;Cávado, Ave e Leça;PT02CAV0076;"Rio Cávado (HMWB - Jusante
+B. Paradela)"
+Cávado;"Abelheira II (deriva para AH
+Paradela)";CC N.º  05/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2032;-;RH2;Cávado, Ave e Leça;PT02CAV0076;"Rio Cávado (HMWB - Jusante
+B. Paradela)"
+Cávado;"Açude da Cabreira deriva para
+Venda";CC N.º  04/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2070;-;RH2;Cávado, Ave e Leça;PT02CAV0082;Rio de Saltadouro
+Cávado;Açude Ribeira de Rebordondo (deriva para AH Ruivães);CC N.º 00013/2009-RH2.1196.E de 16/09/2009;Energia;01/01/2017;01/01/2052;-;RH2;Cávado, Ave e Leça;PT02CAV0082;Rio de Saltadouro
+Cávado;"Açude Ribeiro de Chedos
+(deriva para AH Ruivães)";"CC N.º 00013/2009-RH2.1196.E de
+16/09/2009";Energia;01/01/2017;01/01/2052;-;RH2;Cávado, Ave e Leça;PT02CAV0082;Rio de Saltadouro
+Cávado;"Alto Cávado caudais
+derivados para Alto Rabagão";CC N.º  03/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2042;-;RH2;Cávado, Ave e Leça;PT02CAV0062;Rio Cávado
+Cávado;Alto Rabagão;CC N.º  03/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2042;Abastecimento público - CC;RH2;Cávado, Ave e Leça;PT02CAV0072;Albufeira do Alto Rabagão
+Cávado;Brufe (deriva para AH Vilarinho das Furnas);CC N.º  08/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2052;-;RH2;Cávado, Ave e Leça;PT02CAV0070;Rio Homem (HMWB - Jusante B. Vilarinho das Furnas)
+Cávado;"Cabril (deriva para AH
+Paradela)";CC N.º  05/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2032;-;RH2;Cávado, Ave e Leça;PT02CAV0073;Ribeira de Cabril
+Cávado;Caniçada;CC N.º  07/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2032;Lazer;RH2;Cávado, Ave e Leça;PT02CAV0086;Albufeira da Caniçada
+Cávado;"Castanheiro (deriva para AH
+Paradela)";CC N.º  05/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2032;-;RH2;Cávado, Ave e Leça;PT02CAV0076;"Rio Cávado (HMWB - Jusante
+B. Paradela)"
+Cávado;"Freitas (deriva para AH
+Vilarinho das Furnas)";CC N.º  08/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2052;-;RH2;Cávado, Ave e Leça;PT02CAV0079;Rio Caldo
+Cávado;Gemesura (deriva para AH Vilarinho das Furnas);CC N.º  08/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2052;-;RH2;Cávado, Ave e Leça;PT02CAV0070;Rio Homem (HMWB - Jusante B. Vilarinho das Furnas)
+Cávado;Mesa do Galo_Borralha;"Alvará de Licença nº 009/C.-A.H.E, de
+18/11/1997";Energia;18/11/1997;18/11/2032;-;RH2;Cávado, Ave e Leça;PT02CAV0084;Ribeira de Amiar
+Cávado;Paradela;CC N.º  05/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2032;-;RH2;Cávado, Ave e Leça;PT02CAV0068;Albufeira de Paradela
+Cávado;"Penedo (deriva para AH
+Paradela)";CC N.º  05/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2032;-;RH2;Cávado, Ave e Leça;PT02CAV0073;Ribeira de Cabril
+Cávado;Penide;"Decreto de 24 de abril de 1967, publicado a
+24.4.1967";Energia;24/04/1967;23/04/2027;Abastecimento público - CC;RH2;Cávado, Ave e Leça;PT02CAV0095;Rio Cávado
+Cávado;Ponte do Bico/Palmeira;Alvará de Licença nº 60/90 de 17/10/1990;Energia;em avaliação;em avaliação;-;RH2;Cávado, Ave e Leça;PT02CAV0090;"Rio Cávado (HMWB - Jusante
+B. Caniçada)"
+Cávado;Ruães;"Alvará de Licença Nº 028/C-A.H.E. de 19-09-
+2003";Energia;19/09/2003;29/05/2036;-;RH2;Cávado, Ave e Leça;PT02CAV0095;Rio Cávado
+Cávado;Ruivães (Açude);"CC N.º 00013/2009-RH2.1196.E de
+16/09/2009";Energia;01/01/2017;01/01/2052;-;RH2;Cávado, Ave e Leça;PT02CAV0082;Rio de Saltadouro
+Cávado;Salamonde;CC N.º  06/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2070;-;RH2;Cávado, Ave e Leça;PT02CAV0080;Albufeira de Salamonde
+Cávado;Sela (deriva para AH Paradela);CC N.º  05/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2032;-;RH2;Cávado, Ave e Leça;PT02CAV0076;"Rio Cávado (HMWB - Jusante
+B. Paradela)"
+Cávado;"Toco (deriva para AH
+Paradela)";CC N.º  05/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2032;-;RH2;Cávado, Ave e Leça;PT02CAV0077;Rio de Fafião
+Cávado;Venda Nova;CC N.º  04/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2070;Abastecimento público - CC;RH2;Cávado, Ave e Leça;PT02CAV0083;Albufeira da Venda Nova
+Cávado;Vilarinho das Furnas;CC N.º  08/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2052;-;RH2;Cávado, Ave e Leça;PT02CAV0069;"Albufeira de Vilarinho das
+Furnas"
+Douro;"Açude de Covas (AH de Covas
+do Barroso)";Alvará de Licença nº 111, de 01/09/1993;Energia;07/02/1995;07/02/2030;-;RH3;Douro;PT03DOU0204;Rio Covas
+Douro;"Açude do Couto (AH de Covas
+do Barroso)";Alvará de Licença nº 111, de 01/09/1993;Energia;07/02/1995;07/02/2030;-;RH3;Douro;PT03DOU0204;Rio Covas
+Douro;"Açude na Rª de Chã do Meio
+(deriva para AH Vales)";C00005/2010-RH3.12.A;Energia;02/07/1905;09/03/2044;-;RH3;Douro;PT03DOU0263;Rio Tinhela
+Douro;Açude Vales;C00005/2010-RH3.12.A,;Energia;02/07/1905;09/03/2044;-;RH3;Douro;PT03DOU0263;Rio Tinhela
+Douro;"Açude Veiga de Chaves/Aç.
+Vila Verde da Raia";CC N.º 002/2018-RH3.1212.A, de 19.6.2018;Rega;19/06/2018;12/02/2036;-;RH3;Douro;PT03DOU0226NA1;Rio Tâmega
+Douro;"Açude-Ponte de Mirandela
+(AH Ponte Europa)";C00010/2010-RH3-1214-A, de 25/11/2010;Energia;25/11/2010;08/10/2044;-;RH3;Douro;PT03DOU0331B;Rio Tua
+Douro;Agilde;C00004/2010,RH3.12.12.A, de 20/05/2010;Energia;01/10/2012;01/10/2047;-;RH3;Douro;PT03DOU0297;Ribeira de Santa Natália
+Douro;Alfaiates;CC N.º 00002/2021-RH3.12A, de 24.3.2021;Rega;24/03/2021;31/12/2046;Lazer (balnear);RH3;Douro;PT03DOU0494;Ribeira da Aldeia da Ponte
+Douro;Alfândega da Fé (Estevainha);CC N.º 00021/2012-RH3.12.A, de 16.11.2012;Rega;16/11/2012;16/11/2032;"Abastecimento público - CC;
+Lazer";RH3;Douro;PT03DOU0318A;Ribeira do Calvário
+Douro;Alto Tâmega;CC N.º  32/ENERGIA/APA/2014;Energia;22/07/2022;31/12/2072;-;RH3;Douro;PT03DOU0226NA1;Rio Tâmega
+Douro;Alvadia;Alvará de Licença nº 10/89, de 04/12/1989;Energia;em avaliação;em avaliação;-;RH3;Douro;PT03DOU0255D;Rio Poio
+Douro;Arcossó;CC N.º 002/2018-RH3.1212.A, de 19.6.2018;Rega;19/06/2018;12/02/2036;Abastecimento público - CC;RH3;Douro;PT03DOU0166;Ribeira de Arcosso
+Douro;Aregos;C00003/2011-RH3.12.A, de 29.7.2011;Energia;29/07/2011;01/07/2028;-;RH3;Douro;PT03DOU0394;Rio Cabrum
+Douro;"Armamar / (Temilobos,
+Lumiares)";CC N.º 00007/2013-RH3.12.A, de 23.4.2013;Rega;23/04/2013;23/04/2033;Abastecimento público - CC;RH3;Douro;PT03DOU0396;Ribeiro de Temilobos
+Douro;Assobio;"Alvará de Utilização de Água nº 18 de
+17/05/1999";Energia;17/05/1999;17/05/2034;-;RH3;Douro;PT03DOU0382;Ribeiro do Zêzere
+Douro;Azibo;CC N.º 00005/2021-RH3.12.A, de 14.10.2021;Rega;14/10/2021;11/05/2041;-;RH3;Douro;PT03DOU0223;Albufeira do Azibo
+Douro;"Baixo Sabor (escalão de
+montante)";CC N.º  27/ENERGIA/INAG/2008;Energia;01/07/2015;31/07/2090;-;RH3;Douro;PT03DOU0335D;Albufeira do Baixo Sabor
+Douro;"Baixo Sabor (escalão
+jusante)/Feiticeiro";CC N.º  27/ENERGIA/INAG/2008;Energia;01/07/2015;31/07/2090;-;RH3;Douro;PT03DOU0335C;"Albufeira do Baixo Sabor
+(Jusante)"
+Douro;"Barreiros (Quinta da
+Fervença)";"Alvará de Licença nº 004/C - AHE, de
+21/12/1996";Energia;22/10/1998;22/10/2033;-;RH3;Douro;PT03DOU0457;Rio Távora
+Douro;Bemposta;CC N.º  11/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2056;Abastecimento público - CC;RH3;Douro;PT03DOU0295;Albufeira da Bemposta
+Douro;Bouçoais - Sonim;"Alvará de Licença  Nº 019/C - AHE de
+30.6.1999";Energia;30/06/1999;30/06/2034;-;RH3;Douro;PT03DOU0189N;Rio Rabaçal
+Douro;Bragadas;Alvará de Licença nº 27 de 12.03.1990;Energia;26/07/1996;26/07/2031;-;RH3;Douro;PT03DOU0300A;Rio Beça
+Douro;Bragado;"Alvará de Licença nº 002/C-A.H.E, de
+08/01/1996";Energia;29/05/1998;29/05/2033;-;RH3;Douro;PT03DOU0211;Rio Avelames
+Douro;Burga;"CC N.º 00008/2013-RH3.1216.A, de
+23.4.2013";Rega;23/04/2013;23/04/2033;-;RH3;Douro;PT03DOU0290;Ribeira da Vilariça
+Douro;Candemil;C00001/2010-RH3.12.A, de 15/04/2010;Energia;01/12/2011;01/12/2046;-;RH3;Douro;PT03DOU0319;Rio Ovelha
+Douro;Canedo;"1/ENERGIA/CCDRN/NORTE/2008, de
+18/07/2008";Energia;em avaliação;em avaliação;-;RH3;Douro;PT03DOU0300A;Rio Beça
+Douro;Carrapatelo;CC N.º  15/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2052;"Abastecimento público - CC;
+Navegação; Lazer";RH3;Douro;PT03DOU0401;Albufeira do Carrapatelo
+Douro;Casal;Alvará de Licença nº 24, de 12/03/1990;Energia;em avaliação;em avaliação;-;RH3;Douro;PT03DOU0238;Rio de Ouro
+Douro;Catapereiro;Alvará de Licença nº 75 de 24/01/1991;Energia;28/02/1997;28/02/2032;-;RH3;Douro;PT03DOU0372A;Ribeira da Teja
+Douro;Cefra (Freita);"DECRETO nº 27145 DE 24.10.1936,
+PUBLICADO 24.10.1936";Energia;14/12/2000;13/11/2030;-;RH3;Douro;PT03DOU0242;Rio de Ouro
+Douro;Central da Ribeira;C00008/2012-RH3.12.12.A, de 12/03/2012;Energia;12/03/2012;12/03/2047;-;RH3;Douro;PT03DOU0204;Rio Covas
+Douro;Cerejo (Bouça Cova);CC N.º 00007/2020-RH3.12.A;Rega;28/11/2020;31/12/2045;Abastecimento público - CC;RH3;Douro;PT03DOU0479A;Albufeira de Cerejo
+Douro;Chelo I - Mourães;Alvará de Licença nº 89, de dezembro de 1991;Energia;08/06/1994;08/06/2029;-;RH3;Douro;PT03DOU0408;Rio Uima
+Douro;Chelo II;Alvará Licença nº001/C-AHE, de 30/05/1995;Energia;em avaliação;em avaliação;-;RH3;Douro;PT03DOU0390;Rio Varosa
+Douro;Crestuma-Lever;CC N.º  16/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2052;"Abastecimento público - CC;
+Navegação; Lazer";RH3;Douro;PT03DOU0407;Albufeira de Crestuma-Lever
+Douro;Curalha;"CC N.º 00005/2013-RH3.1212.A,  de
+23.4.2013";Rega;23/04/2013;23/04/2033;-;RH3;Douro;PT03DOU0226NA1;Rio Tâmega
+Douro;Daivões;CC N.º  32/ENERGIA/APA/2014;Energia;22/07/2022;31/12/2072;-;RH3;Douro;PT03DOU0233A;Albufeira de Daivões
+Douro;Ermida (Barragem);Alvará de licença nº 14/89 de 4 de dezembro;Energia;30/11/1992;30/11/2027;-;RH3;Douro;PT03DOU0452;Ribeira da Carvalhosa
+Douro;Foz Tua;CC N.º  28/ENERGIA/INAG/2011;Energia;04/04/2018;04/04/2093;-;RH3;Douro;PT03DOU0331C;Albufeira de Foz Tua
+Douro;Fráguas;Alvará de Licença nº 13/89 de 04/12/1989;Energia;03/11/1992;03/11/2027;-;RH3;Douro;PT03DOU0453;Rio Paiva
+Douro;Freigil;Concessão do Contrato 5787-III de 10 de maio, publicado no DG 2R Série de 28.09.1920;Energia;01/01/2011;01/07/2028;-;RH3;Douro;PT03DOU0394;Rio Cabrum
+Douro;Gostei;CC N.º 00003/2013-RH3.1216A;Rega;23/04/2013;23/04/2033;-;RH3;Douro;PT03DOU0167;Rio Fervença
+Douro;Gouvães;CC N.º  32/ENERGIA/APA/2014;Energia;22/07/2022;31/12/2072;Abastecimento público -CC;RH3;Douro;PT03DOU0255B;Albufeira de Gouvães
+Douro;Granja do Tedo;"Alvará de Licença nº 008/C-A.H.E, de
+14/01/1997";Energia;14/01/1997;14/01/2032;-;RH3;Douro;PT03DOU0410;Ribeira do Tedo
+Douro;Hortas / Mourães;"CC N.º  C000011/2014-RH3.12.A de
+09/12/2014";Energia;09/12/2014;09/12/2054;-;RH3;Douro;PT03DOU0408;Rio Uima
+Douro;Lomba;"Alvará de Licença nº 005/C     AHE de 23 de
+abril de 1996";Energia;27/09/1999;27/09/2034;-;RH3;Douro;PT03DOU0341;Rio Ovelha
+Douro;Mairos;CC N.º 00004/2013-RH3.1212A, de 23.4.2013;Rega;23/04/2013;23/04/2033;-;RH3;Douro;PT03DOU0166;Ribeira de Arcosso
+Douro;Miranda do Douro;CC N.º  09/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2042;Abastecimento público - CC;RH3;Douro;PT03DOU0245;Albufeira de Miranda
+Douro;Misarela;Alvará de Licença nº 22, de 08/09/1999;Energia;08/09/1999;08/09/2034;-;RH3;Douro;PT03DOU0369;Ribeiro de Temilobos
+Douro;Moinhos de Moiratão;C00002/2010-RH3.12.A, de 16/04/2010;Energia;10/10/2011;10/10/2046;-;RH3;Douro;PT03DOU0437B;Ribeira da Teja
+Douro;Nunes;Alvará de Licença Nº16/89 de 3.1.1990;Energia;16/02/1995;15/02/2030;-;RH3;Douro;PT03DOU0180;Rio Tuela
+Douro;Ovadas;Alvará de Licença Nº 77 de 21.1.1991;Energia;25/06/1991;24/06/2026;-;RH3;Douro;PT03DOU0394;Rio Cabrum
+Douro;Pego Negro;C00004/2011-RH3.1212.A, de 12.12.2011;Energia;12/12/2011;12/12/2051;-;RH3;Douro;PT03DOU0297;Ribeira de Santa Natália
+Douro;Penhas Altas;Alvará de Licença Nº 57;Energia;em avaliação;em avaliação;-;RH3;Douro;PT03DOU0327;Rio Ferreira
+Douro;Pereira;"Alvará de Licença nº 294/98 - MH(15) de
+03/06/1998";Energia;03/06/1998;03/06/2033;-;RH3;Douro;PT03DOU0452;Ribeira da Carvalhosa
+Douro;Picote;CC N.º  10/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2063;Abastecimento público - CC;RH3;Douro;PT03DOU0275;Albufeira de Picote
+Douro;Pinhão;"CC N.º 4/ABAST/ARH do Norte.I.P./2009, de
+29.5.2009";Energia;29/05/2009;26/10/2031;-;RH3;Douro;PT03DOU0285B;Albufeira do Pinhão
+Douro;Pinhel (Ribeira da Pega);"Alvará de Licença nº 590/99-MH, de
+09/06/1999";Energia;09/06/1999;09/06/2034;-;RH3;Douro;PT03DOU0474;"Ribeira da Pega (HMWB -
+Jusante B. Vascoveiro)"
+Douro;Pinhel (Ribeira das Cabras);"Alvará de Licença nº 590/99-MH, de
+09/06/2000";Energia;09/06/1999;09/06/2034;-;RH3;Douro;PT03DOU0471;Rio Côa
+Douro;Pisões;"CC N.º nº C00007/2017-RH3.12.A, de
+27/07/2017";Energia;10/05/2021;11/05/2056;-;RH3;Douro;PT03DOU0320;Rio Fornelo
+Douro;Pocinho;CC N.º  12/ENERGIA/INAG;Energia;08/03/2008;31/12/2052;"Abastecimento público - CC;
+Navegação; Lazer";RH3;Douro;PT03DOU0371;Albufeira do Pocinho
+Douro;Ponte Nova;"Alvará de Licença nº003/C.AHE, de
+19/01/1996";Energia;26/07/1996;26/07/2031;-;RH3;Douro;PT03DOU0457;Rio Távora
+Douro;Prada;CC N.º 005/2019-RH3.12.A de 31.5.2019;Rega;31/05/2019;31/05/2044;-;RH3;Douro;PT03DOU0156;Regato de Vale de Cabrões
+Douro;Rebordelo;"Alvará de Licença  Nº 011/C - AHE de
+17.2.1999";Energia;17/02/1999;17/02/2034;-;RH3;Douro;PT03DOU0189N;Rio Rabaçal
+Douro;Rego do Milho;CC N.º 006/2019-RH3.12.A de 31.5.2019;Rega;31/05/2019;31/05/2044;-;RH3;Douro;PT03DOU0152;Ribeira de Cambedo Regueirón
+Douro;Régua;CC N.º  14/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2052;"Abastecimento público - CC;
+Navegação; Lazer";RH3;Douro;PT03DOU0365;Albufeira da Régua
+Douro;Ribadouro (Açude);Alvará de Licença nº 68, de 30/11/1990;Energia;13/12/1991;13/12/2026;-;RH3;Douro;PT03DOU0392;Rio Ovil
+Douro;Ribeiro Grande e Arco;"CC N.º 00008/2013-RH3.1216.A, de
+23.4.2013";Rega;23/04/2013;23/04/2033;-;RH3;Douro;PT03DOU0325C;"Albufeira de Ribeiro Grande e
+Arco"
+Douro;Salgueiro;"CC N.º 00008/2013-RH3.1216.A, de
+23.4.2013";Rega;23/04/2013;23/04/2033;-;RH3;Douro;PT03DOU0290;Ribeira da Vilariça
+Douro;Santa Justa;"CC N.º 00008/2013-RH3.1216.A, de
+23.4.2013";Rega;23/04/2013;23/04/2033;-;RH3;Douro;PT03DOU0290;Ribeira da Vilariça
+Douro;Senhora de Monforte;Alvará de Licença nº 39/90 , de 04/05/1990;Energia;06/06/1992;06/06/2027;-;RH3;Douro;PT03DOU0471;Rio Côa
+Douro;Senhora do Salto;Alvará de Licença nº56 de 12/10/1990;Energia;09/02/1993;09/02/2028;-;RH3;Douro;PT03DOU0399;Rio Sousa
+Douro;Sordo;Alvará de Licença nº  110 de 3.7.1993;Energia;06/12/1994;05/12/2029;Abastecimento público - CC;RH3;Douro;PT03DOU0310;Rio Sordo
+Douro;Terragido;Alvará de Licença Nº 34/90 de 29.3.1990;Energia;08/02/1991;07/02/2026;-;RH3;Douro;PT03DOU0359;Rio Corgo
+Douro;Torga;Alvará de Licença Nº 69 de 17/12/1990;Energia;02/07/1991;01/07/2026;-;RH3;Douro;PT03DOU0180;Rio Tuela
+Douro;Torrão;CC N.º  17/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2052;"Abastecimento público - CC;
+Navegação; Lazer";RH3;Douro;PT03DOU0393;Albufeira do Torrão
+Douro;Trutas;C00013/2010.RH2.1214.A, de 22/12/2010;Energia;22/12/2010;19/11/2044;-;RH3;Douro;PT03DOU0180;Rio Tuela
+Douro;Ucanha - Gouviães;Alvará de Licença nº 100 de 30/09/1992;Energia;01/03/1999;01/03/2034;-;RH3;Douro;PT03DOU0390;Rio Varosa
+Douro;Vale Madeira;Alvará de Licença nº 107, de 30/07/1993;Energia;17/06/2004;17/06/2039;-;RH3;Douro;PT03DOU0471;Rio Côa
+Douro;Vale Madeiro;CC N.º 00006/2013-RH3.1214.A de 23.4.2013;Rega;23/04/2013;23/04/2033;-;RH3;Douro;PT03DOU0248;Ribeira de Mourel
+Douro;Vale Soeiro;Alvará de Licença Nº 9/89  de 04/12/1989;Energia;08/07/1994;08/07/2029;-;RH3;Douro;PT03DOU0453;Rio Paiva
+Douro;Valeira;CC N.º  13/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2052;Navegação;RH3;Douro;PT03DOU0353A;Albufeira da Valeira
+Douro;Valtorno;CC N.º 017/2012-RH3.1216.A, de 20.7.2012;Rega;20/07/2012;26/10/2031;-;RH3;Douro;PT03DOU0325A;Ribeiro Grande
+Douro;Varosa;Diário do Governo nº 90, de 16/04/1973;Energia;16/04/1973;16/04/2033;-;RH3;Douro;PT03DOU0386;Albufeira do Varosa
+Douro;Vermiosa;CC N.º 00003/2021-RH3.12.A, de 24.3.2021;Rega;24/03/2021;31/12/2046;-;RH3;Douro;PT03DOU0465;Ribeiro da Deveza
+Douro;Vila Viçosa;"Alvará de licença nº 1/89 de 6 de novembro de
+1989";Energia;13/09/1993;13/09/2028;-;RH3;Douro;PT03DOU0434;Rio Ardena
+Douro;Vilar - Tabuaço;CC N.º  18/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2042;"Abastecimento público - CC;
+Lazer/Balnear";RH3;Douro;PT03DOU0436;Albufeira Vilar - Tabuaço
+Lis;Açude das Salgadas;CC N.º 1/AGRIC/SUP/RH4/2014;Rega;14/04/2014;30/06/2023;-;RH4A;Vouga, Mondego e Lis;PT04LIS0704;Lis
+Lis;Açude do Arrabalde;CC N.º 1/AGRIC/SUP/RH4/2014;Rega;14/04/2014;30/06/2023;-;RH4A;Vouga, Mondego e Lis;PT04LIS0709B;Rio Lis
+Mondego;Açude da Castanheira (deriva caudais para AH Santa Luzia);Decreto de 21 de fevereiro de 1957;Energia;21/02/1957;01/01/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0678;Rio Ceira
+Mondego;Açude do Ceiroco (deriva caudais para AH Santa Luzia);Decreto de 21 de fevereiro de 1957;Energia;21/02/1957;01/01/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0678;Rio Ceira
+Mondego;Açude do Tojo (deriva caudais para AH Santa Luzia);Decreto de 21 de fevereiro de 1957;Energia;21/02/1957;01/01/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0678;Rio Ceira
+Mondego;"Açude dos Trinta - deriva para
+central do Caldeirão";21/ENERGIA/INAG/2008 e adenda;Energia;08/03/2008;31/12/2053;-;RH4A;Vouga, Mondego e Lis;PT04MON0618A;Rio Mondego
+Mondego;Aguieira;19/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2052;"Abastecimento público - CC;
+Rega";RH4A;Vouga, Mondego e Lis;PT04MON0633;Albufeira da Aguieira
+Mondego;Alto Ceira II;Decreto de 21 de fevereiro de 1957;Energia;21/02/1957;01/01/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0678;Rio Ceira
+Mondego;Avô;Alvará de Licença N.º 118/97 MH (10);Energia;10/02/1997;10/02/2032;-;RH4A;Vouga, Mondego e Lis;PT04MON0658;Rio Alva
+Mondego;Caldeirão;CC N.º 21/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2052;Abastecimento público - CC;RH4A;Vouga, Mondego e Lis;PT04MON0597;"Albufeira do Caldeirão
+(Mondego)"
+Mondego;Caniça;"Decreto de concessão de  9 de outubro de
+1968";Energia;09/10/1968;09/10/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0624;"Ribeira da Caniça (HMWB -
+Jusante B. Lagoa Comprida)"
+Mondego;Casal de Ermio;CC N.º 01/ENERGIA/APA-ARHC/2020;Energia;31/12/2023;31/12/2058;Rega - CC;RH4A;Vouga, Mondego e Lis;PT04MON0679;Rio Ceira
+Mondego;Covão da Erva da Fome;"Decreto de concessão de  9 de outubro de
+1968";Energia;09/10/1968;09/10/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0617;"Ribeira da Fervença (HMWB -
+Jusante B. Vale Rossim)"
+Mondego;Covão do Boieiro/Boeiro;"Decreto de concessão de  9 de outubro de
+1968";Energia;09/10/1968;09/10/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0634;Ribeira de Loriga
+Mondego;Covão do Curral;"Decreto de concessão de  9 de outubro de
+1968";Energia;09/10/1968;09/10/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0624;"Ribeira da Caniça (HMWB -
+Jusante B. Lagoa Comprida)"
+Mondego;Covão do Forno;"Decreto de concessão de  9 de outubro de
+1968";Energia;09/10/1968;09/10/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0624;"Ribeira da Caniça (HMWB -
+Jusante B. Lagoa Comprida)"
+Mondego;Covão do Meio;"Decreto de concessão de  9 de outubro de
+1968";Energia;09/10/1968;09/10/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0634;Ribeira de Loriga
+Mondego;Covão do Vale do Conde;"Decreto de concessão de  9 de outubro de
+1968";Energia;09/10/1968;09/10/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0621;Ribeiro do Covão do Urso
+Mondego;Covão dos Conchos;"Decreto de concessão de  9 de outubro de
+1968";Energia;09/10/1968;09/10/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0621;Ribeiro do Covão do Urso
+Mondego;"Fronhas - deriva para central
+da Aguieira";CC N.º 19/ENERGIA/INAG/2008 e adenda;Energia;08/03/2008;31/12/2052;-;RH4A;Vouga, Mondego e Lis;PT04MON0654;Albufeira das Fronhas
+Mondego;"Lagoa Comprida (Barragem
+Marques da Silva)";"Decreto de concessão de  9 de outubro de
+1968";Energia;09/10/1968;09/10/2028;Lazer;RH4A;Vouga, Mondego e Lis;PT04MON0629;Albufeira Lagoa Comprida
+Mondego;Lagoacho;"Decreto de concessão de  9 de outubro de
+1968";Energia;09/10/1968;09/10/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0621;Ribeiro do Covão do Urso
+Mondego;Levada-a-Velha;Alvará de Licença N.º 230/96 – MH (1);Energia;31/12/1996;31/12/2031;-;RH4A;Vouga, Mondego e Lis;PT04MON0578;Rio Dão
+Mondego;MACIEIRA;CC N.º 01/REGA/CAP.SUP./RH4/2020;Rega;17/12/2020;17/12/2045;-;RH4A;Vouga, Mondego e Lis;PT04MON0623;Ribeira de Mortágua
+Mondego;Moinhos;Alvará Licença nº 836/97 - MH(16);Energia;28/11/1997;28/11/2032;Rega - CC;RH4A;Vouga, Mondego e Lis;PT04MON0600;Rio do Castelo
+Mondego;Múceres;Alvará de Licença n.º 120/97 - MH(9);Energia;10/02/1997;10/02/2032;-;RH4A;Vouga, Mondego e Lis;PT04MON0603;Rio Criz
+Mondego;"Nossa Senhora do Desterro
+(Açude do Poço Negro)";"Decreto de concessão de  9 de outubro de
+1968";Energia;09/10/1968;09/10/2028;Abastecimento público - CC;RH4A;Vouga, Mondego e Lis;PT04MON0626;Rio Alva
+Mondego;Penacova;Alvará de Licença N.º 307/96 – MH (3);Energia;01/04/2002;01/04/2037;-;RH4A;Vouga, Mondego e Lis;PT04MON0638A;"Rio Mondego (HMWB - Jusante
+Aç. Raiva)"
+Mondego;Ponte de Fagilde;Alvará de Licença nº 237/96-MH(2);Energia;30/11/1998;30/11/2033;-;RH4A;Vouga, Mondego e Lis;PT04MON0598;"Rio Dão (HMWB - Jusante B.
+Fagilde)"
+Mondego;Ponte de Jugais;"Decreto de concessão de  9 de outubro de
+1968";Energia;09/10/1968;09/10/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0626;Rio Alva
+Mondego;Raiva;CC N.º 20/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2053;-;RH4A;Vouga, Mondego e Lis;PT04MON0635;Albufeira da Raiva
+Mondego;Rei de Moinhos (v);Decreto de 5 de agosto de 1939;Energia;05/08/1939;05/08/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0658;Rio Alva
+Mondego;Ribeira do Paúl;CC N.º 02/ABAST/ARHC/2012;Industrial;11/07/2012;11/07/2047;-;RH4A;Vouga, Mondego e Lis;PT04MON0608;Rio Dinha
+Mondego;Vale do Rossim;"Decreto de concessão de  9 de outubro de
+1968";Energia;09/10/1968;09/10/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0620;Albufeira de Vale Rossim
+Mondego;Vila Cova;"Decreto de concessão de  9 de outubro de
+1968";Energia;09/10/1968;09/10/2028;-;RH4A;Vouga, Mondego e Lis;PT04MON0626;Rio Alva
+Vouga;"Açude Malhada de
+Cambarinho";A007913.2013.RH4;Rega;24/05/2013;24/05/2023;-;RH4A;Vouga, Mondego e Lis;PT04VOU0548;Rio Alfusqueiro
+Vouga;Águas Frias;Alvará de Licença nº 119/97 - MH (8);Energia;10/02/1997;10/02/2032;-;RH4A;Vouga, Mondego e Lis;PT04VOU0515;Rio Sul
+Vouga;Aproveitamento Hidroelétrico de Lourizela (Lote 7C);CC N.º 01/ENERGIA/APA-ARHC/2021;Energia;09/09/2024;09/09/2069;-;RH4A;Vouga, Mondego e Lis;PT04VOU0528A;Rio Lordelo
+Vouga;Aproveitamento Hidroelétrico de Rio de Mel (Lote 8C);CC N.º 01/ENERGIA/APA-ARHC/2017;Energia;30/09/2019;30/09/2064;-;RH4A;Vouga, Mondego e Lis;PT04VOU0519;Rio de Mel
+Vouga;Areeiro;Alvará de Licença N.º 76;Energia;31/12/1993;31/12/2028;-;RH4A;Vouga, Mondego e Lis;PT04VOU0523;Rio Caima
+Vouga;Bertelhe;Alvará de Licença N.º 251/96 - MH (4);Energia;31/12/1996;31/12/2031;-;RH4A;Vouga, Mondego e Lis;PT04VOU0520;Rio Vouga
+Vouga;"Burgães (Barragem Eng.º
+Duarte Pacheco)";CC N.º 01/AGRIC/SUP/RH4/2017;Rega;14/11/2017;14/11/2037;Abastecimento público - CC;RH4A;Vouga, Mondego e Lis;PT04VOU0506;Rio Caima
+Vouga;Carregal / Manhouce;Alvará de Licença N.º 62;Energia;09/10/1992;09/10/2027;-;RH4A;Vouga, Mondego e Lis;PT04VOU0513A;Rio Teixeira
+Vouga;Cercosa;Alvara Licença Nº 15/89;Energia;14/05/1997;14/05/2032;-;RH4A;Vouga, Mondego e Lis;PT04VOU0548;Rio Alfusqueiro
+Vouga;Ermida (Ribeiradio);CC N.º 02/2009 e 3 adendas;Energia;31/07/2015;31/07/2090;-;RH4A;Vouga, Mondego e Lis;PT04VOU0546B;Albufeira de Ermida
+Vouga;Fumadinha;CC N.º 9/ABAST/ARH Centro;Lazer;17/07/2009;15/09/2030;-;RH4A;Vouga, Mondego e Lis;PT04VOU0516;Rio Vouga
+Vouga;Grela;Alvará de Licença N.º 101;Energia;25/11/1993;25/11/2038;-;RH4A;Vouga, Mondego e Lis;PT04VOU0546A;"Rio Vouga (HMWB - Jusante B.
+Ermida)"
+Vouga;Ossela (Carvalhal);Alvará de Licença nº 7/89;Energia;21/11/1990;21/11/2045;-;RH4A;Vouga, Mondego e Lis;PT04VOU0523;Rio Caima
+Vouga;Palhal;Alvará de Licença nº 44  de 25.6.1990;Energia;31/12/1991;31/12/2026;-;RH4A;Vouga, Mondego e Lis;PT04VOU0553;Rio Vouga
+Vouga;Paredes;Alvará de Licença nº 67;Energia;16/02/1996;16/02/2031;-;RH4A;Vouga, Mondego e Lis;PT04VOU0529A;Rio Valoso
+Vouga;Pego;Alvará de Licença N.º 10/C – A.H.E.;Energia;09/03/1998;09/03/2033;-;RH4A;Vouga, Mondego e Lis;PT04VOU0523;Rio Caima
+Vouga;Pereiras;A017574.2016.RH4A;Rega;em avaliação;em avaliação;-;RH4A;Vouga, Mondego e Lis;PT04VOU0548;Rio Alfusqueiro
+Vouga;Ponte do Vouguinha;Alvará de Licença N.º 802/97 - MH(15);Energia;28/11/1997;28/11/2032;-;RH4A;Vouga, Mondego e Lis;PT04VOU0520;Rio Vouga
+Vouga;Quinta de Valgode;Alvará de Licença n.º 873/96  - MH(7);Energia;05/12/1996;05/12/2031;-;RH4A;Vouga, Mondego e Lis;PT04VOU0530A;Rio Vouga
+Vouga;Ribeiradio;CC N.º 02/2009 e 3 adendas;Energia;31/07/2015;31/07/2090;-;RH4A;Vouga, Mondego e Lis;PT04VOU0546C;Albufeira de Ribeiradio
+Vouga;S. Pedro do Sul;Alvará de Licença nº 73;Energia;31/01/1994;31/01/2029;-;RH4A;Vouga, Mondego e Lis;PT04VOU0530A;Rio Vouga
+Vouga;Soutinho;Alvará de Licença nº 38;Energia;31/12/1991;31/12/2026;-;RH4A;Vouga, Mondego e Lis;PT04VOU0560;Rio Águeda
+Vouga;Talhadas (Lourizela);Alvará de Licença N.º 23;Energia;em avaliação;em avaliação;-;RH4A;Vouga, Mondego e Lis;PT04VOU0559;Rio Águeda
+Vouga;Teixo e Dornas;CC N.º  01/C/E/CC DR/Centro/2008;Energia;06/11/2009;06/11/2044;-;RH4A;Vouga, Mondego e Lis;PT04VOU0556;Ribeira de Souto
+Vouga;Várzea de Calde;CC N.º 01/AGRIC/SUP/RH4/2015;Rega;16/01/2015;16/01/2035;Abastecimento público - CC;RH4A;Vouga, Mondego e Lis;PT04VOU0520;Rio Vouga
+Vouga;Vilar do Monte;CC N.º 05/2009;Energia;22/08/2018;22/08/2053;-;RH4A;Vouga, Mondego e Lis;PT04VOU0520;Rio Vouga
+"Ribeiras do
+Oeste";"Açude do Aproveitemento
+Hidroagricola de Cela";ARHT/0021.11/T/C.CA.S;Rega;18/04/2011;18/04/2031;-;RH5A;Tejo e Ribeiras do Oeste;PT05RDW1157;Rio Alcoa
+"Ribeiras do
+Oeste";Alvorninha;ARHT/082.13/R/C.CA.S/APA/2013;Rega;30/04/2013;30/04/2033;-;RH5A;Tejo e Ribeiras do Oeste;PT05RDW1163;Rio da Tornada
+"Ribeiras do
+Oeste";Óbidos;ARHTO/120.16/R/C.CAS, 24.11.2016;Rega;24/11/2016;31/12/2036;-;RH5A;Tejo e Ribeiras do Oeste;PT05RDW1169A;Rio Real
+Tejo;Açafal;APA/ARHTO/012.20/T/C.CA.S;Rega;12/06/2020;31/12/2045;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0896A;Ribeira do Açafal
+Tejo;Alforfa;Alvará de Licença de 16.1.1995;Energia;16/01/1995;16/01/2030;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0749;Ribeira de Alforfa
+Tejo;Apartadura;CC n.º ARHTO/016.20/R/C.CAS;Rega;01/01/2009;20/04/2031;Abastecimento público - CC;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0964;Albufeira da Apartadura
+Tejo;Barroca;ARHT/2181.09/T/C.CA.S;Energia;11/04/2009;11/04/2032;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0785;Rio Zêzere
+Tejo;Belver;"Decreto de 14 de agosto de 1947 publicado com o caderno de encargos no DG de 1 de
+setembro de 1947";Energia;01/09/1947;09/10/2027;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0936;Albufeira de Belver
+Tejo;Bouçã;CC N.º  25/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2032;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0850A;Albufeira da Bouçã
+Tejo;"Caldas de Manteigas (Açude
+do AH)";Alvará de Licença nº 90 de 28.2.1992;Energia;em avaliação;em avaliação;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0740;Rio Zêzere
+Tejo;Carreteira;APA/ARHTO/001.19/T/C.CA.S;Rega;28/03/2019;em avaliação;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ1020;Ribeiro das Vinhas
+Tejo;Carril;APA/ARHTO/013.20/T/C.CA.S;Rega;01/07/2020;31/12/2040;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0917;Rio Nabão
+Tejo;Castelo de Bode;CC N.º  26/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2032;"Abastecimento público - CC;
+Lazer/Balnear";RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0914A;Albufeira de Castelo do Bode
+Tejo;"Covão Nave ( BARRAGEM DO
+Covão do Ferro)";Licença de Alvará de 16.1.1995;Energia;16/01/1995;16/01/2030;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0749;Ribeira de Alforfa
+Tejo;Cristalina (Ribeira de Vide);APA/ARHTO/020.19 /T/C.CA.S;Rega;12/12/2019;12/12/2029;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ1010;Ribeira de Vide
+Tejo;Divor;ARHT/0035.11/T/C.CA.S;Rega;03/06/2011;03/06/2031;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ1128;Albufeira do Divor
+Tejo;Estrela;Licença de Alvará de 16.1.1995;Energia;16/01/1995;16/01/2030;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0749;Ribeira de Alforfa
+Tejo;Fratel;CC N.º  22/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2052;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0913A;Albufeira do Fratel
+Tejo;Freixeirinha;ARHTO/02.21/T/C.CAS;Rega;21/03/2022;30/04/2046;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ1108B;Albufeira da Freixeirinha
+Tejo;Furadouro;ARHT/2071.10/T/C.CA.S;Rega;02/12/2010;02/12/2030;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ1035;"Ribeira da Raia (HMWB -
+Jusante B. Maranhão)"
+Tejo;Gameiro;ARHT/2071.10/T/C.CA.S;Rega;02/12/2010;02/12/2030;Energia;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ1035;"Ribeira da Raia (HMWB -
+Jusante B. Maranhão)"
+Tejo;Idanha (Marechal Carmona);ARHT/0004.11/T/C.CA.S;Rega;29/04/2011;29/04/2031;Energia;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0818;"Albufeira Marechal Carmona -
+Idanha"
+Tejo;"Janeiro de Cima (Açude do
+AH)/ ""Porto das Vacas""";"Alvará de Licença nº 64 de 6 de novembro de
+1990";Energia;em avaliação;em avaliação;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0798;Rio Zêzere
+Tejo;Lapa;Alvará de Licença n.º 86;Rega;30/09/1991;em avaliação;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0934;Ribeira de Arcês
+Tejo;Magos;ARHT/2071.10/T/C.CA.S;Rega;02/12/2010;02/12/2030;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ1033;Albufeira de Magos
+Tejo;Maranhão;ARHT/2071.10/T/C.CA.S;Rega;02/12/2010;02/12/2030;"Energia; Industrial";RH5A;Tejo e Ribeiras do Oeste;PT05TEJ1030A;Albufeira do Maranhão
+Tejo;Minutos;ARHTO/0034.11/T/C.CA.S;Rega;01/06/2011;01/06/2031;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ1142;Albufeira dos Minutos
+Tejo;Montargil;ARHT/2071.10/T/C.CA.S;Rega;02/12/2010;02/12/2030;"Energia; Industrial; Lazer";RH5A;Tejo e Ribeiras do Oeste;PT05TEJ1015;Albufeira de Montargil
+Tejo;Pedra Figueira;Licença de Alvará de 16.1.1995;Energia;16/01/1995;16/01/2030;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0749;Ribeira de Alforfa
+Tejo;Pracana;CC N.º  23/ENERGIA/INAG/2008;Energia;08/03/2008;31/12/2052;-;RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0910;Albufeira da Pracana
+Tejo;Santa Luzia;Decreto de 21 de fevereiro de 1957;Energia;21/02/1957;01/01/2028;"Abastecimento público - CC;
+Lazer/Balnear";RH5A;Tejo e Ribeiras do Oeste;PT05TEJ0783;Albufeira de Santa Luzia
+Costeiras;Morgavel;CC 1/CSp/SD/2009;Industrial;17/07/2009;27/12/2031;-;RH6;Sado e Mira;PT06SUL1645;Albufeira de Morgavel
+Mira;Corte Brique;CC N.º 8/CSB/MR/2011;Rega;27/10/2011;31/12/2030;-;RH6;Sado e Mira;PT06MIR1386;Ribeira de Corte Brique
+Mira;Santa Clara;CC N.º 8/CSB/MR/2011;Rega e energia;27/10/2011;31/12/2030;"Abastecimento público - CC;
+Industrial; Balnear";RH6;Sado e Mira;PT06MIR1392;Albufeira de Santa Clara
+Sado;Açude de Benecolares;CC N.º 3/CSB/SD/2011 de 30.09.2011;Rega;30/09/2011;31/12/2030;-;RH6;Sado e Mira;PT06SAD1337;Ribeira de São Domingos
+Sado;Açude Marruais;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;-;RH6;Sado e Mira;PT06SAD1273;Albufeira de Alvito
+Sado;Açude Monte do Bolor;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;-;RH6;Sado e Mira;PT06SAD1306A;Ribeira do Álamo
+Sado;Açude Vale de Carro;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;-;RH6;Sado e Mira;PT06SAD1273;Albufeira de Alvito
+Sado;Açude Vale do Zebro;CC N.º 3/CSB/SD/2011 de 30.09.2011;Rega;30/09/2011;31/12/2030;-;RH6;Sado e Mira;PT06SAD1337;Ribeira de São Domingos
+Sado;Alvito;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;"Abastecimento público - CC;
+Energia";RH6;Sado e Mira;PT06SAD1273;Albufeira de Alvito
+Sado;Campilhas;CC N.º 3/CSB/SD/2011 de 30.09.2011;Rega;30/09/2011;31/12/2030;-;RH6;Sado e Mira;PT06SAD1345;Albufeira de Campilhas
+Sado;Cinco Reis;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;Balnear;RH6;Sado e Mira;PT06SAD1323;Ribeira do Outeiro
+Sado;"Ferreira ou reservatorio do
+bloco III";CC N.º 2/CSP/SD/2013 de 29.10.2013;Rega;29/10/2013;31/12/2030;-;RH6;Sado e Mira;PT06SAD1304;Ribeira da Capela
+Sado;Fonte Serne;CC N.º 3/CSB/SD/2011 de 30.09.2011;Rega;30/09/2011;31/12/2030;-;RH6;Sado e Mira;PT06SAD1340;Albufeira de Fonte Serne
+Sado;Lagoa Vermelha;CC N.º 2/CSP/SD/2013 de 29.10.2013;Rega;29/10/2013;31/12/2030;-;RH6;Sado e Mira;PT06SAD1311A;Ribeira da Figueira
+Sado;Marmelo (Monte Marmelo);CC N.º 2/CSP/SD/2013 de 29.10.2013;Rega;29/10/2013;31/12/2030;-;RH6;Sado e Mira;PT06SAD1311A;Ribeira da Figueira
+Sado;Monte Branco;CC N.º 2/CSP/SD/2013 de 29.10.2013;Rega;29/10/2013;31/12/2030;-;RH6;Sado e Mira;PT06SAD1311A;Ribeira da Figueira
+Sado;Monte da Rocha;CC N.º 3/CSB/SD/2011 de 30.09.2011;Rega;30/09/2011;31/12/2030;Abastecimento público - CC;RH6;Sado e Mira;PT06SAD1361;Albufeira Monte da Rocha
+Sado;Monte Gato;CC N.º 3/CSB/SD/2011 de 30.09.2011;Rega;30/09/2011;31/12/2030;-;RH6;Sado e Mira;PT06SAD1357;Ribeira da Ferraria
+Sado;Monte Miguéis;CC N.º 3/CSB/SD/2011 de 30.09.2011;Rega;30/09/2011;31/12/2030;-;RH6;Sado e Mira;PT06SAD1357;Ribeira da Ferraria
+Sado;Odivelas;CC N.º 2/CSP/SD/2013 de 29.10.2013;Rega;29/10/2013;31/12/2030;Energia;RH6;Sado e Mira;PT06SAD1290;Albufeira de Odivelas
+Sado;Pego do Altar;CC N.º 9/CSP/SD/2011 de 27.10.2011;Rega;27/10/2011;31/12/2030;Energia;RH6;Sado e Mira;PT06SAD1235;Albufeira de Pego do Altar
+Sado;Penedrão;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;-;RH6;Sado e Mira;PT06SAD1309C;Albufeira de Penedrão
+Sado;Pisão;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;Energia;RH6;Sado e Mira;PT06SAD1303A;Albufeira do Pisão
+Sado;Roxo;CC N.º 7/CSB/SD/2011;Rega;27/10/2011;31/12/2030;"Abastecimento público - CC;
+Industrial; Energia";RH6;Sado e Mira;PT06SAD1331;Albufeira do Roxo
+Sado;Vale do Gaio;CC N.º 9/CSP/SD/2011 de 27.10.2011;Rega;27/10/2011;31/12/2030;Energia;RH6;Sado e Mira;PT06SAD1276;"Albufeira Trigo de Morais - Vale
+do Gaio"
+Guadiana;Abrilongo;CC N.º 8/CSP/GD/2012 de 16.11.2012;Rega;16/11/2012;31/12/2030;-;RH7;Guadiana;PT07GUA1407;Albufeira de Abrilongo
+Guadiana;Álamos I;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;-;RH7;Guadiana;PT07GUA1487G;"Sistema de Albufeiras Álamo I
+e II"
+Guadiana;Álamos II;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;-;RH7;Guadiana;PT07GUA1487G;"Sistema de Albufeiras Álamo I
+e II"
+Guadiana;Álamos III;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;-;RH7;Guadiana;PT07GUA1487B;"Albufeira de Alqueva (Braço
+Degebe)"
+Guadiana;Almeidas;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;-;RH7;Guadiana;PT07GUA1509A;Albufeira de São Pedro
+Guadiana;Alqueva;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;"Abastecimento público - CC;
+Energia; Balnear/Lazer";RH7;Guadiana;PT07GUA1487A;Albufeira de Alqueva (Principal)
+Guadiana;Amendoeira;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;-;RH7;Guadiana;PT07GUA1509A;Albufeira de São Pedro
+Guadiana;Amoreira;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;Energia;RH7;Guadiana;PT07GUA1515C;Albufeira da Amoreira
+Guadiana;Beliche;"CC N.º  7/APA/ARHAlgarve/2012; CC
+1/EFM/2021 de 25.1.2022";Rega;25/02/2022;31/12/2048;-;RH7;Guadiana;PT07GUA1624;Albufeira de Beliche
+Guadiana;Brinches;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;Energia;RH7;Guadiana;PT07GUA1520B;Albufeira de Brinches
+Guadiana;Caia;CC N.º 6/CSB/GD/2012 de 16.11.2012;Rega;16/11/2012;31/12/2030;"Abastecimento público - CC;
+Energia";RH7;Guadiana;PT07GUA1422;Albufeira do Caia
+Guadiana;Caliços;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;-;RH7;Guadiana;PT07GUA1500;Ribeira Vale de Cervas
+Guadiana;Furta Galinhas;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;-;RH7;Guadiana;PT07GUA1502;Ribeira de Brenhas
+Guadiana;Laje;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;-;RH7;Guadiana;PT07GUA1527A;Albufeira da Laje
+Guadiana;Loureiro;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;-;RH7;Guadiana;PT07GUA1473C;Albufeira do Loureiro
+Guadiana;Lucefecit;CC N.º 4/CSB/SD/2011 de 27.10.2011;Rega;27/11/2011;31/12/2030;-;RH7;Guadiana;PT07GUA1441;Albufeira de Lucefecit
+Guadiana;Magra;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;Abastecimento público - CC;RH7;Guadiana;PT07GUA1534A;Ribeira da Cardeira
+Guadiana;Monte Novo;CC N.º 1/CSP/GD/2010 de 6.8.2010;Rega;06/08/2010;13/03/2033;-;RH7;Guadiana;PT07GUA1458A;Albufeira do Monte Novo
+Guadiana;Odeleite;"CC N.º 3/APA/ARHAlgarve/2012; CC N.º
+1/EFM/2021 de 25.1.2022";Rega;25/02/2022;31/12/2048;"Abastecimento público - CC;
+Balnear";RH7;Guadiana;PT07GUA1618;Albufeira de Odeleite
+Guadiana;Pedrógão;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;"Energia; lazer";RH7;Guadiana;PT07GUA1513;Albufeira de Pedrogão
+Guadiana;Pias;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;-;RH7;Guadiana;PT07GUA1515B2;Albufeira de Pias
+Guadiana;São Pedro;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;Energia;RH7;Guadiana;PT07GUA1509A;Albufeira de São Pedro
+Guadiana;Selmes;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;-;RH7;Guadiana;PT07GUA1506;Barranco da Cabrita
+Guadiana;Serpa;"CC para utilização dos recursoso hídricos no
+EFMA assinado em  17/10/2007";Rega;17/10/2007;16/10/2082;Energia;RH7;Guadiana;PT07GUA1531B;Albufeira de Serpa
+Guadiana;Vigia;CC N.º 7/CSB/GD/2012 de 16.11.2012;Rega;16/11/2012;31/12/2030;Abastecimento público - CC;RH7;Guadiana;PT07GUA1455;Albufeira da Vigia
+"Ribeiras do
+Algarve";Arade;CC N.º 2/APA/ARHAlgarve/2012;Rega;16/11/2012;31/12/2030;Energia;RH8;Ribeiras do Algarve;PT08RDA1669;Albufeira do Arade
+"Ribeiras do
+Algarve";Bravura (Odeáxere);CC N.º 1/APA/ARHAlgarve/2012;Rega;16/11/2012;10/03/2031;"Abastecimento público - CC;
+Energia";RH8;Ribeiras do Algarve;PT08RDA1679;Albufeira de Odiáxere - Bravura
