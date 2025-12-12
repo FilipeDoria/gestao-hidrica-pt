@@ -371,6 +371,79 @@
       color: var(--primary);
       font-weight: 600;
     }
+
+    /* --- RESPONSIVE DESIGN --- */
+    @media only screen and (max-width: 768px) {
+      header {
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+        padding: 15px;
+      }
+
+      header>div {
+        flex-direction: column;
+        gap: 10px;
+        width: 100%;
+        justify-content: center;
+      }
+
+      .header-logo {
+        height: 40px;
+      }
+
+      .container {
+        padding: 10px;
+        /* Compress padding */
+      }
+
+      .grid-kpi {
+        grid-template-columns: 1fr 1fr;
+        /* 2 cols on tablet/large phone */
+        gap: 10px;
+      }
+
+      .kpi-card {
+        padding: 15px;
+      }
+
+      .kpi-value {
+        font-size: 20px;
+      }
+
+      .filters {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .filters input,
+      .filters select {
+        width: 100% !important;
+        /* Force full width inputs */
+      }
+
+      .charts-grid {
+        grid-template-columns: 1fr;
+        /* Stack charts */
+      }
+
+      /* Side Panel Full Width on Mobile */
+      .side-panel {
+        width: 100%;
+        right: -100%;
+      }
+    }
+
+    @media only screen and (max-width: 480px) {
+      .grid-kpi {
+        grid-template-columns: 1fr;
+        /* 1 col on small phone */
+      }
+
+      h1 {
+        font-size: 16px !important;
+      }
+    }
   </style>
 </head>
 
@@ -8150,7 +8223,9 @@
         d.is_expired = d.date_obj && d.date_obj < today;
         d.is_warning = d.date_obj && d.date_obj > today && d.date_obj <= warningDate;
 
-        if (d.Bacia) d.Bacia = d.Bacia.trim();
+        // Basin Logic (Handle potential BOM or alternative CSV headers)
+        let rawBasin = d.Bacia || d['Bacia Hidrográfica'] || d['\ufeffBacia Hidrográfica'] || '';
+        if (rawBasin) d.Bacia = rawBasin.trim();
         else d.Bacia = "Desconhecida";
 
         // Purpose Cleaning
