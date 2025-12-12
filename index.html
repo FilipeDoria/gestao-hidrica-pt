@@ -13,16 +13,26 @@
 
   <style>
     :root {
-      --primary: #2180A2;
-      --primary-dark: #1A6E80;
-      --background: #F5F5F3;
+      /* AdEPorto Theme */
+      --primary: #005696;
+      /* Blue */
+      --primary-dark: #004070;
+      /* Dark Blue */
+      --secondary: #86BC25;
+      /* Green */
+      --accent: #E31C23;
+      /* Alert Red */
+      --background: #f4f7f6;
       --surface: #FFFFFF;
-      --text: #1F2121;
-      --text-secondary: #626C7C;
-      --border: #E0E0DD;
+      --text: #333333;
+      --text-secondary: #666666;
+      --border: #e0e0e0;
       --success: #22C55E;
       --warning: #F59E0B;
       --danger: #EF4444;
+      --chart-color-1: #005696;
+      --chart-color-2: #86BC25;
+      --chart-color-3: #26C1C9;
     }
 
     body {
@@ -34,10 +44,12 @@
     }
 
     header {
-      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
-      color: white;
-      padding: 24px;
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      background: white;
+      /* Clean white for logo */
+      color: var(--primary);
+      padding: 15px 25px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+      border-bottom: 3px solid var(--secondary);
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -364,12 +376,17 @@
 
 <body>
   <header>
-    <div>
-      <h1 style="margin:0;">🌍 Master Hidro Dashboard</h1>
-      <p style="margin:0; opacity: 0.9;">Visualização Geoespacial e Administrativa Integrada</p>
+    <div style="display:flex; align-items:center; gap:20px;">
+      <img src="https://www.adeporto.eu/client/skins/images/logo.svg" alt="AdEPorto" style="height:50px;">
+      <div style="border-left: 1px solid #ddd; padding-left: 20px; height: 40px; display: flex; align-items: center;">
+        <h1
+          style="margin:0; font-size:18px; font-weight:600; text-transform:uppercase; letter-spacing:1px; color:var(--primary-dark);">
+          Dashboard Hídrico Nacional</h1>
+      </div>
     </div>
-    <div>
-      <span style="font-size: 12px; opacity: 0.8;">Dados: APA + OpenInfraMap (OSM)</span>
+    <div style="font-size: 12px; text-align: right; color: var(--text-secondary);">
+      <div>Desenvolvido por <strong>FilipeDoria</strong></div>
+      <div style="opacity:0.7">Dados: APA + OpenInfraMap</div>
     </div>
   </header>
 
