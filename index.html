@@ -427,10 +427,20 @@
         /* Stack charts */
       }
 
+      .chart-container {
+        height: 220px;
+        /* Reduced height for mobile */
+      }
+
       /* Side Panel Full Width on Mobile */
       .side-panel {
         width: 100%;
         right: -100%;
+      }
+
+      /* Hide less critical columns on mobile */
+      .mobile-hide {
+        display: none !important;
       }
     }
 
@@ -535,14 +545,13 @@
         <thead>
           <tr>
             <th onclick="sort('Aproveitamento Hidráulico')">Nome ↕</th>
-            <th onclick="sort('Operator_Web')">Operador (Web) ↕</th>
+            <th class="mobile-hide" onclick="sort('Operator_Web')">Operador (Web) ↕</th>
             <th onclick="sort('Capacity_Web')">Cap. ↕</th>
             <th onclick="sort('Bacia')">Bacia ↕</th>
             <th>Finalidade</th>
             <th onclick="sort('Data Termo')">Termo ↕</th>
-            <th>Origem</th>
+            <th class="mobile-hide">Origem</th>
             <th>Estado</th>
-            <th>🔗</th>
           </tr>
         </thead>
         <tbody></tbody>
@@ -8392,6 +8401,8 @@
         type: 'bar',
         data: { labels: [], datasets: [{ label: 'Concessões', data: [], borderRadius: 4 }] },
         options: {
+          responsive: true,
+          maintainAspectRatio: false,
           plugins: { legend: { display: false } },
           onClick: (e, els) => {
             if (els.length > 0) {
@@ -8413,6 +8424,8 @@
         data: { labels: [], datasets: [{ label: 'Instalações', data: [], backgroundColor: '#32B8C6' }] },
         options: {
           indexAxis: 'y',
+          responsive: true,
+          maintainAspectRatio: false,
           plugins: { legend: { display: false } },
           onClick: (e, els) => {
             if (els.length > 0) {
@@ -8433,6 +8446,8 @@
         type: 'doughnut',
         data: { labels: [], datasets: [{ data: [], backgroundColor: ['#2180A2', '#22C55E', '#F59E0B', '#EF4444', '#626C7C', '#8B5CF6'] }] },
         options: {
+          responsive: true,
+          maintainAspectRatio: false,
           plugins: { legend: { position: 'right' } },
           onClick: (e, els) => {
             if (els.length > 0) {
