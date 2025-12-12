@@ -8321,8 +8321,19 @@
       activeData = masterData.filter(d => {
         // 1. Static Filters
         const name = (d['Aproveitamento Hidráulico'] || '').toLowerCase();
-        const contract = (d['N.º Contrato Concessão (CC)'] || '').toLowerCase(); // Use key from csv
-        const matchSearch = name.includes(search) || contract.includes(search);
+        const contract = (d['N.º Contrato Concessão (CC)'] || '').toLowerCase();
+        const operator = (d.Operator_Web || '').toLowerCase();
+        const purpose = (d.Finalidade || '').toLowerCase();
+
+        // Search across Name, Contract, Operator, and Purpose using keywords
+        // Split search terms to allow "Câmara Minho" to match "Câmara Municipal ... (Minho)"
+        const terms = search.split(' ').filter(t => t.length > 0);
+        const matchSearch = terms.every(term =>
+          name.includes(term) ||
+          contract.includes(term) ||
+          operator.includes(term) ||
+          purpose.includes(term)
+        );
 
         // Allow Dropdown Basin overrides Chart Basin if strict? No, usually intersection.
         // If activeBasin (Chart) is set, it overrides or intersects? 
