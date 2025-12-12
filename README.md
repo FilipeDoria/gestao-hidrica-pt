@@ -10,7 +10,7 @@ O projeto tem como objetivo facilitar a visualização e análise das concessõe
 - **Detalhes Técnicos**: Capacidade instalada, operador, bacia hidrográfica e finalidade.
 - **Comparação de Fontes**: Distinção visual entre dados confirmados (APA+OpenInfraMap) e dados apenas do OpenInfraMap.
 
-👉 **[Ver Dashboard Online](https://<seu-utilizador>.github.io/<nome-do-repo>)** (Substitua pelo seu link após deploy)
+👉 **[Ver Dashboard Online](https://FilipeDoria.github.io/gestao-hidrica-pt)**
 
 ## 🛠️ Tecnologias Usadas
 
@@ -34,6 +34,17 @@ O projeto tem como objetivo facilitar a visualização e análise das concessõe
 
 - **APA**: Lista de Aproveitamentos Hidráulicos.
 - **OpenInfraMap/Overpass API**: Dados geoespaciais e técnicos do OpenStreetMap.
+
+## 🔮 Plano de Desenvolvimento Futuro
+
+Para garantir a evolução contínua do projeto, mantemos um plano detalhado de desenvolvimento, incluindo a estrutura ideal para uma base de dados PostgreSQL/PostGIS e novas fontes de dados a integrar.
+
+👉 **[Ver Plano de Desenvolvimento (aproveitamentos_hidricos_v3.md)](aproveitamentos_hidricos_v3.md)**
+
+Principais pontos de evolução:
+- Migração para Base de Dados Relacional (SQL).
+- Integração de dados da **APA**, **EDP** e **REN**.
+- Monitorização em tempo real via **SNIRH**.
 
 ---
 *Gerado com assistência de AI Agent (Google Deepmind)*

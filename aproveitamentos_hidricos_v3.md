@@ -289,7 +289,7 @@ CREATE TABLE concessoes (
     data_fim_concessao DATE,
     duracao_anos INTEGER,
     estado_legal VARCHAR(50) NOT NULL DEFAULT 'Ativa' CHECK (
-        estado_legal IN ('Ativa', 'Prorrogada', 'Caducada', 'Revertida', 'Em Renegociação')
+        estado_legal IN ('Ativa', 'Prorrogação', 'Caducada', 'Revertida', 'Em Renegociação')
     ),
     numero_decreto_lei VARCHAR(50), -- Ex: "Decreto-Lei nº 107/1970"
     link_documento_legal TEXT, -- URL para o Diário da República
