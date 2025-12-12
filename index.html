@@ -8516,7 +8516,11 @@
 
       const details = document.getElementById('panel-details');
       const mapUrl = d.Lat && d.Lon ? `https://www.google.com/maps?q=${d.Lat},${d.Lon}` : null;
-      const osmUrl = d.OpenInfraMap_URL;
+      // Fallback: Use direct OSM URL if exists, otherwise generate one from coordinates
+      let osmUrl = d.OpenInfraMap_URL;
+      if (!osmUrl && d.Lat && d.Lon) {
+        osmUrl = `https://openinframap.org/#15/${d.Lat}/${d.Lon}`;
+      }
 
       let html = `
             <div class="detail-group">
