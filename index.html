@@ -428,7 +428,7 @@
       }
 
       .chart-container {
-        height: 220px;
+        height: 180px;
         /* Reduced height for mobile */
       }
 
@@ -548,7 +548,7 @@
             <th class="mobile-hide" onclick="sort('Operator_Web')">Operador (Web) ↕</th>
             <th onclick="sort('Capacity_Web')">Cap. ↕</th>
             <th onclick="sort('Bacia')">Bacia ↕</th>
-            <th>Finalidade</th>
+            <th class="mobile-hide">Finalidade</th>
             <th onclick="sort('Data Termo')">Termo ↕</th>
             <th class="mobile-hide">Origem</th>
             <th>Estado</th>
@@ -8593,14 +8593,13 @@
 
         tr.innerHTML = `
                     <td title="${d.Web_Name || ''}"><strong>${d['Aproveitamento Hidráulico']}</strong></td>
-                    <td style="font-size:11px">${d.Operator_Web || '-'}</td>
+                    <td class="mobile-hide" style="font-size:11px">${d.Operator_Web || '-'}</td>
                     <td>${d.Capacity_Web || '-'}</td>
                     <td>${d.Bacia}</td>
-                    <td>${d.Finalidade}</td>
+                    <td class="mobile-hide">${d.Finalidade}</td>
                     <td>${d['Data CC - Termo'] || d['Data Termo'] || '-'}</td>
-                    <td><span class="source-tag">${sourceBadge}</span></td>
+                    <td class="mobile-hide"><span class="source-tag">${sourceBadge}</span></td>
                     <td><span class="badge ${badgeClass}">${statusText}</span></td>
-                    <td style="text-align:center">${linkHtml}</td>
                 `;
         tbody.appendChild(tr);
       });
