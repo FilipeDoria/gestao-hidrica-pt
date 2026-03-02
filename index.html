@@ -8362,6 +8362,7 @@
         return matchSearch && matchBasin && matchSource && matchDate && matchPurpose;
       });
 
+      currentPage = 1;
       renderTable(activeData);
       updateKPIs(activeData);
       updateMap(activeData);
@@ -8580,7 +8581,8 @@
       const tbody = document.querySelector('#data-table tbody');
       tbody.innerHTML = '';
 
-      data.slice(0, 500).forEach((d, i) => {
+      const pageSlice = data.slice((currentPage - 1) * PAGE_SIZE, currentPage * PAGE_SIZE);
+      pageSlice.forEach((d, i) => {
         const tr = document.createElement('tr');
         tr.style.cursor = 'pointer';
         tr.onclick = (e) => {
@@ -8618,7 +8620,7 @@
                 `;
         tbody.appendChild(tr);
       });
-      document.getElementById('table-footer').innerText = `A mostrar ${data.length} registos`;
+      renderPagination(data.length);
     }
 
     function populateFilters() {
@@ -8642,6 +8644,48 @@
       data.forEach(d => { if (d.Operator_Web) ops[d.Operator_Web] = (ops[d.Operator_Web] || 0) + 1; });
       const topOp = Object.entries(ops).sort((a, b) => b[1] - a[1])[0];
       document.getElementById('kpi-operator').innerText = topOp ? `${topOp[0]} (${topOp[1]})` : '-';
+    }
+
+    // --- PAGINATION ---
+    let currentPage = 1;
+    const PAGE_SIZE = 50;
+
+    function renderPagination(totalCount) {
+      const totalPages = Math.ceil(totalCount / PAGE_SIZE);
+      const footer = document.getElementById('table-footer');
+
+      if (totalPages <= 1) {
+        footer.innerHTML = `<span>A mostrar ${totalCount} registos</span>`;
+        return;
+      }
+
+      const start = (currentPage - 1) * PAGE_SIZE + 1;
+      const end = Math.min(currentPage * PAGE_SIZE, totalCount);
+
+      const btnStyle = 'padding:4px 10px; margin:0 2px; border:1px solid #ddd; border-radius:4px; cursor:pointer; background:white; font-size:12px;';
+      const activeBtnStyle = 'padding:4px 10px; margin:0 2px; border:1px solid var(--primary); border-radius:4px; cursor:pointer; background:var(--primary); color:white; font-weight:600; font-size:12px;';
+
+      let html = `<span style="margin-right:12px;">A mostrar ${start}–${end} de ${totalCount} registos</span>`;
+      html += `<button style="${currentPage === 1 ? btnStyle + 'opacity:0.4;cursor:default' : btnStyle}" onclick="goToPage(1)" ${currentPage === 1 ? 'disabled' : ''}>«</button>`;
+      html += `<button style="${currentPage === 1 ? btnStyle + 'opacity:0.4;cursor:default' : btnStyle}" onclick="goToPage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>‹</button>`;
+
+      // Show a window of page buttons around current page
+      const range = 2;
+      for (let p = Math.max(1, currentPage - range); p <= Math.min(totalPages, currentPage + range); p++) {
+        html += `<button style="${p === currentPage ? activeBtnStyle : btnStyle}" onclick="goToPage(${p})">${p}</button>`;
+      }
+
+      html += `<button style="${currentPage === totalPages ? btnStyle + 'opacity:0.4;cursor:default' : btnStyle}" onclick="goToPage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>›</button>`;
+      html += `<button style="${currentPage === totalPages ? btnStyle + 'opacity:0.4;cursor:default' : btnStyle}" onclick="goToPage(${totalPages})" ${currentPage === totalPages ? 'disabled' : ''}>»</button>`;
+
+      footer.innerHTML = html;
+    }
+
+    function goToPage(page) {
+      const totalPages = Math.ceil(activeData.length / PAGE_SIZE);
+      currentPage = Math.max(1, Math.min(page, totalPages));
+      renderTable(activeData);
+      document.querySelector('#data-table').scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
 
     // --- SORT & CLEAR ---
